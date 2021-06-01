@@ -1,3 +1,11 @@
+
+
+```
+yum install xfce4-devel xfce4-dev-tools.x86_64 dbus-glib-devel.x86_64 libxfce4util-devel.x86_64 xfconf-devel libxfce* gstreamer* libnotify* 
+sh autogen.sh 
+
+```
+
 [![License](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://gitlab.xfce.org/apps/parole/-/blob/master/COPYING)
 
 # parole
@@ -11,6 +19,7 @@ Parole, see the Plugins API documentation and the plugins directory which
 contains some useful examples.
 
 ----
+
 
 ### Homepage
 
