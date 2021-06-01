@@ -1,8 +1,17 @@
 
 
 ```
+yum groupinstall "C Development Tools and Libraries" -y
 yum install xfce4-devel taglib-devel.x86_64 xfce4-dev-tools.x86_64 dbus-glib-devel.x86_64 libxfce4util-devel.x86_64 xfconf-devel libxfce* gstreamer* libnotify* 
 sh autogen.sh 
+./configure --prefix=/usr
+make -j24
+make -j24 install
+
+
+install checkinstall, 
+export PAGER=less
+checkinstall --install=no --exclude=/sys/fs/selinux -D
 
 ```
 
