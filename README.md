@@ -8,6 +8,11 @@ make -j24 install
 install checkinstall, 
 export PAGER=less
 checkinstall --install=no --exclude=/sys/fs/selinux -D
+
+
+run with "parole"
+
+change icon for program with logo in releases
 ```
 
 
