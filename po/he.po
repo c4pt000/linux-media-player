@@ -48,8 +48,8 @@ msgid "X Window System (No Xv)"
 msgstr "X Window System (בלי Xv)"
 
 #: ../data/interfaces/parole-settings.ui.h:4
-msgid "Parole Settings"
-msgstr "הגדרות Parole"
+msgid "Linux Settings"
+msgstr "הגדרות Linux"
 
 #: ../data/interfaces/parole-settings.ui.h:5
 msgid "Configure your media player"
@@ -89,8 +89,8 @@ msgid "General"
 msgstr "כללי"
 
 #: ../data/interfaces/parole-settings.ui.h:14
-msgid "Please restart Parole for this change to take effect."
-msgstr "אנא הפעל מחדש את Parole על מנת ששינוי זה ייכנס לתוקף."
+msgid "Please restart Linux for this change to take effect."
+msgstr "אנא הפעל מחדש את Linux על מנת ששינוי זה ייכנס לתוקף."
 
 #: ../data/interfaces/parole-settings.ui.h:15
 msgid "<b>Video Output</b>"
@@ -173,11 +173,11 @@ msgid "Subtitles"
 msgstr "כתוביות"
 
 #: ../data/interfaces/parole.ui.h:1
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:1 ../src/parole-about.c:74
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:1 ../src/parole-about.c:74
 #: ../src/parole-player.c:598 ../src/parole-player.c:1439
 #: ../src/parole-player.c:1800 ../src/plugins/mpris2/mpris2-provider.c:189
-msgid "Parole Media Player"
-msgstr "נגן המדיה Parole"
+msgid "Linux Media Player"
+msgstr "נגן המדיה Linux"
 
 #: ../data/interfaces/parole.ui.h:2
 msgid "_Media"
@@ -356,8 +356,8 @@ msgid "_Keyboard Shortcuts"
 msgstr "_קיצורי מקלדת"
 
 #: ../data/interfaces/parole.ui.h:45
-msgid "Display Parole user manual"
-msgstr "הצג מדריך המשתמש של Parole"
+msgid "Display Linux user manual"
+msgstr "הצג מדריך המשתמש של Linux"
 
 #: ../data/interfaces/parole.ui.h:46
 msgid "_Contents"
@@ -449,8 +449,8 @@ msgid "Play opened files"
 msgstr "נגן קבצים פתוחים"
 
 #: ../data/interfaces/plugins.ui.h:1
-msgid "Parole Plugins"
-msgstr "תוספי Parole"
+msgid "Linux Plugins"
+msgstr "תוספי Linux"
 
 #: ../data/interfaces/plugins.ui.h:2
 msgid "Extend your media player"
@@ -543,7 +543,7 @@ msgid "Playback"
 msgstr "ניגון"
 
 #: ../data/interfaces/shortcuts.ui.h:19
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:3
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:3
 msgid "Play/Pause"
 msgstr "נגן/השהה"
 
@@ -579,33 +579,33 @@ msgstr "לך אחורה 10 דקות"
 msgid "Go forward 10 minutes"
 msgstr "לך קדימה 10 דקות"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:2
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:2
 msgid "Play your media"
 msgstr "נגן את המדיה שלך"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:4
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:4
 #: ../src/parole-player.c:3383 ../src/plugins/notify/notify-provider.c:190
 msgid "Previous Track"
 msgstr "רצועה קודמת"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:5
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:5
 #: ../src/parole-player.c:3401 ../src/plugins/notify/notify-provider.c:202
 msgid "Next Track"
 msgstr "רצועה הבאה"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:1
 msgid ""
-"Parole is a modern simple media player based on the GStreamer framework and "
+"Linux is a modern simple media player based on the GStreamer framework and "
 "written to fit well in the Xfce desktop. It is designed with simplicity, "
 "speed and resource usage in mind."
-msgstr "‏Parole הינו נגן מדיה פשוט המבוסס על מערכת GStreamer וחובר כדי להיות תואם באופן מיטבי בתוך שולחן העבודה Xfce. נגן זה תוכנן תוך הקפדה על פשטות, מהירות וניצול משאבים."
+msgstr "‏Linux הינו נגן מדיה פשוט המבוסס על מערכת GStreamer וחובר כדי להיות תואם באופן מיטבי בתוך שולחן העבודה Xfce. נגן זה תוכנן תוך הקפדה על פשטות, מהירות וניצול משאבים."
 
 #: ../data/metainfo/parole.appdata.xml.in.h:2
 msgid ""
-"Parole features playback of local media files, including video with "
-"subtitles support, Audio CDs, DVDs, and live streams. Parole is also "
+"Linux features playback of local media files, including video with "
+"subtitles support, Audio CDs, DVDs, and live streams. Linux is also "
 "extensible via plugins."
-msgstr "‏Parole טומן בחובו ניגון של קבצי מדיה מקומיים, כולל וידאו עם תמיכה בכתוביות, תקליטורי שמע CD, DVD, וזרמים חיים. Parole הינו בר הרחבה דרך תוספים."
+msgstr "‏Linux טומן בחובו ניגון של קבצי מדיה מקומיים, כולל וידאו עם תמיכה בכתוביות, תקליטורי שמע CD, DVD, וזרמים חיים. Linux הינו בר הרחבה דרך תוספים."
 
 #: ../data/metainfo/parole.appdata.xml.in.h:3
 msgid ""
@@ -646,11 +646,11 @@ msgstr "גרסה זו מסמנת את הגרסה היציבה הראשונה ש�
 
 #: ../data/metainfo/parole.appdata.xml.in.h:10
 msgid ""
-"This development release is a large cleanup of the codebase, making Parole "
+"This development release is a large cleanup of the codebase, making Linux "
 "lighter and easier to improve. All URLs have been updated to HTTPS. A large "
 "number of bugs have been resolved and a new keyboard shortcuts helper has "
 "been introduced."
-msgstr "גרסת פיתוח זו הינה ניקוי גדול של בסיס הקוד, ההופך את Parole לקלה יותר וניתנת לשיפור באופן קל יותר. כל כתובות ה-URL עודכנו ל-HTTPS. תוקן מספר גדול של באגים והוכנס עוזר חדש לקיצורי מקלדת."
+msgstr "גרסת פיתוח זו הינה ניקוי גדול של בסיס הקוד, ההופך את Linux לקלה יותר וניתנת לשיפור באופן קל יותר. כל כתובות ה-URL עודכנו ל-HTTPS. תוקן מספר גדול של באגים והוכנס עוזר חדש לקיצורי מקלדת."
 
 #: ../data/metainfo/parole.appdata.xml.in.h:11
 msgid ""
@@ -737,14 +737,14 @@ msgstr "אישור"
 #: ../src/gst/parole-gst.c:1353
 #, c-format
 msgid ""
-"Parole needs <b>%s</b> to play this file.\n"
+"Linux needs <b>%s</b> to play this file.\n"
 "It can be installed automatically."
-msgstr "‏Parole צריך <b>%s</b> כדי לנגן את קובץ זה.\nהוא ניתן להתקנה אוטומטית."
+msgstr "‏Linux צריך <b>%s</b> כדי לנגן את קובץ זה.\nהוא ניתן להתקנה אוטומטית."
 
 #: ../src/gst/parole-gst.c:1356
 #, c-format
-msgid "Parole needs <b>%s</b> to play this file."
-msgstr "‏Parole צריך <b>%s</b> כדי לנגן את קובץ זה."
+msgid "Linux needs <b>%s</b> to play this file."
+msgstr "‏Linux צריך <b>%s</b> כדי לנגן את קובץ זה."
 
 #: ../src/gst/parole-gst.c:1735
 msgid "The stream is taking too much time to load"
@@ -767,8 +767,8 @@ msgid "GStreamer Error"
 msgstr "שגיאת GStreamer"
 
 #: ../src/gst/parole-gst.c:1939
-msgid "Parole Media Player cannot start."
-msgstr "לא ניתן להתחיל את נגן המדיה Parole."
+msgid "Linux Media Player cannot start."
+msgstr "לא ניתן להתחיל את נגן המדיה Linux."
 
 #: ../src/gst/parole-gst.c:1964 ../src/gst/parole-gst.c:1979
 #: ../src/gst/parole-gst.c:2013
@@ -790,7 +790,7 @@ msgstr "כתובית מס׳ %d"
 #, c-format
 msgid ""
 "\n"
-"Parole Media Player %s\n"
+"Linux Media Player %s\n"
 "\n"
 "Part of the Xfce Goodies Project\n"
 "https://goodies.xfce.org\n"
@@ -799,7 +799,7 @@ msgid ""
 "\n"
 "Please report bugs to <https://bugzilla.xfce.org/>.\n"
 "\n"
-msgstr "\nנגן המדיה Parole %s\n\nחלק מפרויקט דברים טובים של Xfce \nhttps://goodies.xfce.org\n\nרישיון תחת GNU GPL.\n\nאנא דווח על באגים ל־<https://bugzilla.xfce.org/>.\n\n"
+msgstr "\nנגן המדיה Linux %s\n\nחלק מפרויקט דברים טובים של Xfce \nhttps://goodies.xfce.org\n\nרישיון תחת GNU GPL.\n\nאנא דווח על באגים ל־<https://bugzilla.xfce.org/>.\n\n"
 
 #: ../src/main.c:227
 msgid "Open a new instance"
@@ -864,8 +864,8 @@ msgstr "הקלד %s --help על מנת לראות את רשימת כל האפש�
 
 #: ../src/main.c:309
 #, c-format
-msgid "Parole is already running, use -i to open a new instance\n"
-msgstr "Parole כבר כעת רץ, השתמש ב־-i על מנת לפתוח תהליך חדש\n"
+msgid "Linux is already running, use -i to open a new instance\n"
+msgstr "Linux כבר כעת רץ, השתמש ב־-i על מנת לפתוח תהליך חדש\n"
 
 #: ../src/misc/parole-filters.c:66
 msgid "Audio"
@@ -896,8 +896,8 @@ msgid "translator-credits"
 msgstr "שבחים למתרגמים"
 
 #: ../src/parole-about.c:78
-msgid "Visit Parole website"
-msgstr "בקר באתר רשת Parole"
+msgid "Visit Linux website"
+msgstr "בקר באתר רשת Linux"
 
 #: ../src/parole-conf-dialog.c:287
 msgid "Clutter (OpenGL)"
@@ -1349,8 +1349,8 @@ msgid "Are you sure you want to quit?"
 msgstr "האם אתה בטוח שברצונך לצאת?"
 
 #: ../src/plugins/tray/tray-provider.c:310
-msgid "Parole can be minimized to the system tray instead."
-msgstr "‏Parole ניתן למזעור אל מגש המערכת במקום."
+msgid "Linux can be minimized to the system tray instead."
+msgstr "‏Linux ניתן למזעור אל מגש המערכת במקום."
 
 #: ../src/plugins/tray/tray-provider.c:313
 msgid "Minimize to tray"

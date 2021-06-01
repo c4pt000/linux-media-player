@@ -1,8 +1,8 @@
 [Desktop Entry]
-_Name=Parole Media Player
+_Name=Linux Media Player
 _Comment=Play your media
-Icon=org.xfce.parole
-Exec=parole %F
+Icon=org.xfce.linux.media.player
+Exec=linux_media_player %F
 Terminal=false
 Type=Application
 Categories=GTK;AudioVideo;Player;Video;
@@ -11,16 +11,16 @@ StartupNotify=true
 Actions=Play;Previous;Next;
 
 [Desktop Action Play]
-Exec=parole --play
+Exec=linux_media_player --play
 _Name=Play/Pause
 Icon=media-playback-start-symbolic
 
 [Desktop Action Previous]
-Exec=parole --previous
+Exec=linux_media_player --previous
 _Name=Previous Track
 Icon=media-skip-backward-symbolic
 
 [Desktop Action Next]
-Exec=parole --next
+Exec=linux_media_player --next
 _Name=Next Track
 Icon=media-skip-forward-symbolic

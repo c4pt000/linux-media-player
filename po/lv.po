@@ -22,8 +22,8 @@ msgstr ""
 "X-Generator: Lokalize 1.0\n"
 
 #: ../data/interfaces/parole.ui.h:1 ../src/parole-about.c:89
-msgid "Parole Media Player"
-msgstr "Parole multimediju atskaņotājs"
+msgid "Linux Media Player"
+msgstr "Linux multimediju atskaņotājs"
 
 #: ../data/interfaces/parole.ui.h:2
 msgid "_Media"
@@ -147,8 +147,8 @@ msgstr "Multimediju atskaņotājs"
 
 #: ../data/interfaces/mediachooser.ui.h:1
 #, fuzzy
-msgid "Parole Media Chooser"
-msgstr "Parole multimediju atskaņotājs"
+msgid "Linux Media Chooser"
+msgstr "Linux multimediju atskaņotājs"
 
 #: ../data/interfaces/mediachooser.ui.h:2
 #, fuzzy
@@ -173,8 +173,8 @@ msgid "Start playing opened files"
 msgstr "Sākt spēlēt atvērtos failus"
 
 #: ../data/interfaces/plugins.ui.h:1
-msgid "Parole Plugins"
-msgstr "Parole spraudņi"
+msgid "Linux Plugins"
+msgstr "Linux spraudņi"
 
 #: ../data/interfaces/plugins.ui.h:2
 msgid "Media Player plugins"
@@ -202,8 +202,8 @@ msgid "<b>Site:</b>"
 msgstr "<b>Vieta:</b>"
 
 #: ../data/interfaces/parole-settings.ui.h:1
-msgid "Parole Settings"
-msgstr "Parole iestatījumi"
+msgid "Linux Settings"
+msgstr "Linux iestatījumi"
 
 #: ../data/interfaces/parole-settings.ui.h:2
 msgid "Media Player Settings"
@@ -335,8 +335,8 @@ msgstr ""
 
 #: ../data/desktop/parole.desktop.in.in.h:1
 #, fuzzy
-msgid "Parole"
-msgstr "Parole spraudņi"
+msgid "Linux"
+msgstr "Linux spraudņi"
 
 #: ../src/common/parole-common.c:67
 msgid "Message"
@@ -381,7 +381,7 @@ msgstr ""
 #, c-format
 msgid ""
 "\n"
-"Parole Media Player %s\n"
+"Linux Media Player %s\n"
 "\n"
 "Part of the Xfce Goodies Project\n"
 "https://goodies.xfce.org\n"
@@ -390,7 +390,7 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Parole mediju atskaņotājs %s\n"
+"Linux mediju atskaņotājs %s\n"
 "\n"
 "Daļa no Xfce Goodies projekta\n"
 "https://goodies.xfce.org\n"
@@ -469,8 +469,8 @@ msgstr "Mediji, kurus atskaņot"
 
 #: ../src/main.c:276
 #, c-format
-msgid "Parole is already running, use -i to open a new instance\n"
-msgstr "Parole jau ir palaists, izmantojiet -i, lai atvērtu jaunu instanci\n"
+msgid "Linux is already running, use -i to open a new instance\n"
+msgstr "Linux jau ir palaists, izmantojiet -i, lai atvērtu jaunu instanci\n"
 
 #: ../src/parole-medialist.c:526
 msgid "Permission denied"
@@ -580,7 +580,7 @@ msgstr "Tulkotājs (%s)"
 
 #: ../src/parole-about.c:98
 #, fuzzy
-msgid "Visit Parole website"
+msgid "Visit Linux website"
 msgstr "Doties uz tīmekļa vietni"
 
 #: ../src/parole-disc.c:227
@@ -826,8 +826,8 @@ msgid "Minimize to tray"
 msgstr "Minimizēt uz paziņojuma joslu"
 
 #: ../src/plugins/tray/tray-provider.c:499
-msgid "Are you sure you want to quit Parole"
-msgstr "Vai esat drošs, ka vēlaties iziet no Parole"
+msgid "Are you sure you want to quit Linux"
+msgstr "Vai esat drošs, ka vēlaties iziet no Linux"
 
 #: ../src/plugins/tray/tray-provider.c:503
 msgid "Remember my choice"

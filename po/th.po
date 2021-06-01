@@ -45,8 +45,8 @@ msgid "X Window System (No Xv)"
 msgstr "ระบบ X Window (ไม่มี Xv)"
 
 #: ../data/interfaces/parole-settings.ui.h:4
-msgid "Parole Settings"
-msgstr "ตั้งค่า Parole"
+msgid "Linux Settings"
+msgstr "ตั้งค่า Linux"
 
 #: ../data/interfaces/parole-settings.ui.h:5
 msgid "Configure your media player"
@@ -86,8 +86,8 @@ msgid "General"
 msgstr "ทั่วไป"
 
 #: ../data/interfaces/parole-settings.ui.h:14
-msgid "Please restart Parole for this change to take effect."
-msgstr "กรุณาเริ่มเปิด Parole ใหม่เพื่อให้การเปลี่ยนแปลงนี้มีผล"
+msgid "Please restart Linux for this change to take effect."
+msgstr "กรุณาเริ่มเปิด Linux ใหม่เพื่อให้การเปลี่ยนแปลงนี้มีผล"
 
 #: ../data/interfaces/parole-settings.ui.h:15
 msgid "<b>Video Output</b>"
@@ -170,11 +170,11 @@ msgid "Subtitles"
 msgstr "บทบรรยาย"
 
 #: ../data/interfaces/parole.ui.h:1
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:1 ../src/parole-about.c:74
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:1 ../src/parole-about.c:74
 #: ../src/parole-player.c:598 ../src/parole-player.c:1439
 #: ../src/parole-player.c:1800 ../src/plugins/mpris2/mpris2-provider.c:189
-msgid "Parole Media Player"
-msgstr "โปรแกรมเล่นสื่อ Parole"
+msgid "Linux Media Player"
+msgstr "โปรแกรมเล่นสื่อ Linux"
 
 #: ../data/interfaces/parole.ui.h:2
 msgid "_Media"
@@ -353,8 +353,8 @@ msgid "_Keyboard Shortcuts"
 msgstr "ปุ่ม_ลัดแป้นพิมพ์"
 
 #: ../data/interfaces/parole.ui.h:45
-msgid "Display Parole user manual"
-msgstr "แสดงคู่มือผู้ใช้ Parole"
+msgid "Display Linux user manual"
+msgstr "แสดงคู่มือผู้ใช้ Linux"
 
 #: ../data/interfaces/parole.ui.h:46
 msgid "_Contents"
@@ -446,8 +446,8 @@ msgid "Play opened files"
 msgstr "เล่นแฟ้มที่เปิด"
 
 #: ../data/interfaces/plugins.ui.h:1
-msgid "Parole Plugins"
-msgstr "ปลั๊กอินของ Parole"
+msgid "Linux Plugins"
+msgstr "ปลั๊กอินของ Linux"
 
 #: ../data/interfaces/plugins.ui.h:2
 msgid "Extend your media player"
@@ -540,7 +540,7 @@ msgid "Playback"
 msgstr "การเล่น"
 
 #: ../data/interfaces/shortcuts.ui.h:19
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:3
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:3
 msgid "Play/Pause"
 msgstr "เล่น/พัก"
 
@@ -576,33 +576,33 @@ msgstr "ถอยกลับ 10 นาที"
 msgid "Go forward 10 minutes"
 msgstr "เดินหน้า 10 นาที"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:2
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:2
 msgid "Play your media"
 msgstr "เล่นสื่อของคุณ"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:4
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:4
 #: ../src/parole-player.c:3383 ../src/plugins/notify/notify-provider.c:190
 msgid "Previous Track"
 msgstr "ร่องก่อนหน้า"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:5
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:5
 #: ../src/parole-player.c:3401 ../src/plugins/notify/notify-provider.c:202
 msgid "Next Track"
 msgstr "ร่องถัดไป"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:1
 msgid ""
-"Parole is a modern simple media player based on the GStreamer framework and "
+"Linux is a modern simple media player based on the GStreamer framework and "
 "written to fit well in the Xfce desktop. It is designed with simplicity, "
 "speed and resource usage in mind."
-msgstr "Parole เป็นโปรแกรมเล่นสื่อที่ทันสมัยและใช้งานง่าย โดยอาศัยกรอบงาน GStreamer และสร้างมาเพื่อให้เหมาะกับเดสก์ท็อป Xfce ออกแบบโดยเน้นที่ความเรียบง่าย ความเร็ว และการใช้ทรัพยากร"
+msgstr "Linux เป็นโปรแกรมเล่นสื่อที่ทันสมัยและใช้งานง่าย โดยอาศัยกรอบงาน GStreamer และสร้างมาเพื่อให้เหมาะกับเดสก์ท็อป Xfce ออกแบบโดยเน้นที่ความเรียบง่าย ความเร็ว และการใช้ทรัพยากร"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:2
 msgid ""
-"Parole features playback of local media files, including video with "
-"subtitles support, Audio CDs, DVDs, and live streams. Parole is also "
+"Linux features playback of local media files, including video with "
+"subtitles support, Audio CDs, DVDs, and live streams. Linux is also "
 "extensible via plugins."
-msgstr "Parole รองรับการเล่นแฟ้มสื่อในเครื่อง รวมถึงวีดิทัศน์พร้อมการรองรับบทบรรยาย, ซีดีเพลง, ดีวีดี, และสตรีมสด นอกจากนี้ Parole ยังสามารถต่อเติมได้ด้วยปลั๊กอินอีกด้วย"
+msgstr "Linux รองรับการเล่นแฟ้มสื่อในเครื่อง รวมถึงวีดิทัศน์พร้อมการรองรับบทบรรยาย, ซีดีเพลง, ดีวีดี, และสตรีมสด นอกจากนี้ Linux ยังสามารถต่อเติมได้ด้วยปลั๊กอินอีกด้วย"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:3
 msgid ""
@@ -643,11 +643,11 @@ msgstr "รุ่นนี้เป็นรุ่นเสถียรรุ่
 
 #: ../data/metainfo/parole.appdata.xml.in.h:10
 msgid ""
-"This development release is a large cleanup of the codebase, making Parole "
+"This development release is a large cleanup of the codebase, making Linux "
 "lighter and easier to improve. All URLs have been updated to HTTPS. A large "
 "number of bugs have been resolved and a new keyboard shortcuts helper has "
 "been introduced."
-msgstr "รุ่นพัฒนารุ่นนี้เป็นการทำความสะอาดโค้ดขนานใหญ่ ทำให้ Parole เบาลงและง่ายต่อการปรับปรุงยิ่งขึ้น ได้ปรับ URL ทั้งหมดให้เป็น HTTPS มีการแก้บั๊กจำนวนมาก และเพิ่มเครื่องมือช่วยกำหนดปุ่มลัดแป้นพิมพ์"
+msgstr "รุ่นพัฒนารุ่นนี้เป็นการทำความสะอาดโค้ดขนานใหญ่ ทำให้ Linux เบาลงและง่ายต่อการปรับปรุงยิ่งขึ้น ได้ปรับ URL ทั้งหมดให้เป็น HTTPS มีการแก้บั๊กจำนวนมาก และเพิ่มเครื่องมือช่วยกำหนดปุ่มลัดแป้นพิมพ์"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:11
 msgid ""
@@ -734,14 +734,14 @@ msgstr "ตกลง"
 #: ../src/gst/parole-gst.c:1353
 #, c-format
 msgid ""
-"Parole needs <b>%s</b> to play this file.\n"
+"Linux needs <b>%s</b> to play this file.\n"
 "It can be installed automatically."
-msgstr "Parole ต้องใช้ <b>%s</b> เพื่อเล่นแฟ้มนี้\nซึ่งสามารถติดตั้งได้โดยอัตโนมัติ"
+msgstr "Linux ต้องใช้ <b>%s</b> เพื่อเล่นแฟ้มนี้\nซึ่งสามารถติดตั้งได้โดยอัตโนมัติ"
 
 #: ../src/gst/parole-gst.c:1356
 #, c-format
-msgid "Parole needs <b>%s</b> to play this file."
-msgstr "Parole ต้องใช้ <b>%s</b> เพื่อเล่นแฟ้มนี้"
+msgid "Linux needs <b>%s</b> to play this file."
+msgstr "Linux ต้องใช้ <b>%s</b> เพื่อเล่นแฟ้มนี้"
 
 #: ../src/gst/parole-gst.c:1735
 msgid "The stream is taking too much time to load"
@@ -764,8 +764,8 @@ msgid "GStreamer Error"
 msgstr "ข้อผิดพลาดของ GStreamer"
 
 #: ../src/gst/parole-gst.c:1939
-msgid "Parole Media Player cannot start."
-msgstr "โปรแกรมเล่นสื่อ Parole ไม่สามารถเริ่มทำงานได้"
+msgid "Linux Media Player cannot start."
+msgstr "โปรแกรมเล่นสื่อ Linux ไม่สามารถเริ่มทำงานได้"
 
 #: ../src/gst/parole-gst.c:1964 ../src/gst/parole-gst.c:1979
 #: ../src/gst/parole-gst.c:2013
@@ -787,7 +787,7 @@ msgstr "บทบรรยาย #%d"
 #, c-format
 msgid ""
 "\n"
-"Parole Media Player %s\n"
+"Linux Media Player %s\n"
 "\n"
 "Part of the Xfce Goodies Project\n"
 "https://goodies.xfce.org\n"
@@ -796,7 +796,7 @@ msgid ""
 "\n"
 "Please report bugs to <https://bugzilla.xfce.org/>.\n"
 "\n"
-msgstr "\nโปรแกรมเล่นสื่อ Parole %s\n\nเป็นส่วนหนึ่งของโครงการ Xfce Goodies\nhttps://goodies.xfce.org\n\nเผยแพร่ภายใต้สัญญาอนุญาต GNU GPL\n\nกรุณารายงานปัญหาที่ <https://bugzilla.xfce.org/>\n\n"
+msgstr "\nโปรแกรมเล่นสื่อ Linux %s\n\nเป็นส่วนหนึ่งของโครงการ Xfce Goodies\nhttps://goodies.xfce.org\n\nเผยแพร่ภายใต้สัญญาอนุญาต GNU GPL\n\nกรุณารายงานปัญหาที่ <https://bugzilla.xfce.org/>\n\n"
 
 #: ../src/main.c:227
 msgid "Open a new instance"
@@ -861,8 +861,8 @@ msgstr "สั่ง %s --help เพื่อดูตัวเลือกท�
 
 #: ../src/main.c:309
 #, c-format
-msgid "Parole is already running, use -i to open a new instance\n"
-msgstr "Parole ทำงานอยู่ก่อนแล้ว ใช้ -i หากต้องการเปิดอินสแตนซ์ใหม่\n"
+msgid "Linux is already running, use -i to open a new instance\n"
+msgstr "Linux ทำงานอยู่ก่อนแล้ว ใช้ -i หากต้องการเปิดอินสแตนซ์ใหม่\n"
 
 #: ../src/misc/parole-filters.c:66
 msgid "Audio"
@@ -893,8 +893,8 @@ msgid "translator-credits"
 msgstr "Theppitak Karoonboonyanan <theppitak@gmail.com>"
 
 #: ../src/parole-about.c:78
-msgid "Visit Parole website"
-msgstr "เยี่ยมชมเว็บไซต์ของ Parole"
+msgid "Visit Linux website"
+msgstr "เยี่ยมชมเว็บไซต์ของ Linux"
 
 #: ../src/parole-conf-dialog.c:287
 msgid "Clutter (OpenGL)"
@@ -1340,8 +1340,8 @@ msgid "Are you sure you want to quit?"
 msgstr "คุณแน่ใจหรือไม่ว่าต้องการออกจากโปรแกรม?"
 
 #: ../src/plugins/tray/tray-provider.c:310
-msgid "Parole can be minimized to the system tray instead."
-msgstr "Parole สามารถย่อเก็บลงในถาดระบบแทนได้"
+msgid "Linux can be minimized to the system tray instead."
+msgstr "Linux สามารถย่อเก็บลงในถาดระบบแทนได้"
 
 #: ../src/plugins/tray/tray-provider.c:313
 msgid "Minimize to tray"

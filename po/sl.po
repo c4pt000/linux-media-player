@@ -44,7 +44,7 @@ msgid "X Window System (No Xv)"
 msgstr "X Window System (No Xv)"
 
 #: ../data/interfaces/parole-settings.ui.h:4
-msgid "Parole Settings"
+msgid "Linux Settings"
 msgstr "parole nastavitve"
 
 #: ../data/interfaces/parole-settings.ui.h:5
@@ -85,8 +85,8 @@ msgid "General"
 msgstr "Splošno"
 
 #: ../data/interfaces/parole-settings.ui.h:14
-msgid "Please restart Parole for this change to take effect."
-msgstr "Ponovno zaženite Parole za uveljavitev teh sprememb."
+msgid "Please restart Linux for this change to take effect."
+msgstr "Ponovno zaženite Linux za uveljavitev teh sprememb."
 
 #: ../data/interfaces/parole-settings.ui.h:15
 msgid "<b>Video Output</b>"
@@ -169,11 +169,11 @@ msgid "Subtitles"
 msgstr "Podnapisi"
 
 #: ../data/interfaces/parole.ui.h:1
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:1 ../src/parole-about.c:74
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:1 ../src/parole-about.c:74
 #: ../src/parole-player.c:598 ../src/parole-player.c:1439
 #: ../src/parole-player.c:1800 ../src/plugins/mpris2/mpris2-provider.c:189
-msgid "Parole Media Player"
-msgstr "Parole medijski predvajalnik"
+msgid "Linux Media Player"
+msgstr "Linux medijski predvajalnik"
 
 #: ../data/interfaces/parole.ui.h:2
 msgid "_Media"
@@ -352,8 +352,8 @@ msgid "_Keyboard Shortcuts"
 msgstr "Bljižnice na tip_kovnici"
 
 #: ../data/interfaces/parole.ui.h:45
-msgid "Display Parole user manual"
-msgstr "Prikaži Parole uporabniški priročnik"
+msgid "Display Linux user manual"
+msgstr "Prikaži Linux uporabniški priročnik"
 
 #: ../data/interfaces/parole.ui.h:46
 msgid "_Contents"
@@ -445,7 +445,7 @@ msgid "Play opened files"
 msgstr "Predvajaj odprte datoteke"
 
 #: ../data/interfaces/plugins.ui.h:1
-msgid "Parole Plugins"
+msgid "Linux Plugins"
 msgstr "Parloe vtičniki"
 
 #: ../data/interfaces/plugins.ui.h:2
@@ -539,7 +539,7 @@ msgid "Playback"
 msgstr "Predvajanje"
 
 #: ../data/interfaces/shortcuts.ui.h:19
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:3
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:3
 msgid "Play/Pause"
 msgstr "Predvajaj/Pavza"
 
@@ -575,33 +575,33 @@ msgstr "Nazaj za 10 minut"
 msgid "Go forward 10 minutes"
 msgstr "Naprej za 10 minut"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:2
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:2
 msgid "Play your media"
 msgstr "Predvajaj svoje medije"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:4
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:4
 #: ../src/parole-player.c:3383 ../src/plugins/notify/notify-provider.c:190
 msgid "Previous Track"
 msgstr "Prejšnji zapis"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:5
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:5
 #: ../src/parole-player.c:3401 ../src/plugins/notify/notify-provider.c:202
 msgid "Next Track"
 msgstr "Naslednji zapis"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:1
 msgid ""
-"Parole is a modern simple media player based on the GStreamer framework and "
+"Linux is a modern simple media player based on the GStreamer framework and "
 "written to fit well in the Xfce desktop. It is designed with simplicity, "
 "speed and resource usage in mind."
-msgstr "Parole je moderen in preprost predvajalnik, ki temelji na GStreamer okvirju in je napisan, da se dobro zlije z Xfce namizjem. Načrtovan je z mislijo na enostavnost, hitrost in varčevanje z viri."
+msgstr "Linux je moderen in preprost predvajalnik, ki temelji na GStreamer okvirju in je napisan, da se dobro zlije z Xfce namizjem. Načrtovan je z mislijo na enostavnost, hitrost in varčevanje z viri."
 
 #: ../data/metainfo/parole.appdata.xml.in.h:2
 msgid ""
-"Parole features playback of local media files, including video with "
-"subtitles support, Audio CDs, DVDs, and live streams. Parole is also "
+"Linux features playback of local media files, including video with "
+"subtitles support, Audio CDs, DVDs, and live streams. Linux is also "
 "extensible via plugins."
-msgstr "Parole omogoča predvajanje lokalnih medijskih datotek, videov s podnapisi, zvočnih zgoščenk, DVDjev in živih tokov. Parole je mogoče tudi nadgraditi s pomočjo vtičnikov."
+msgstr "Linux omogoča predvajanje lokalnih medijskih datotek, videov s podnapisi, zvočnih zgoščenk, DVDjev in živih tokov. Linux je mogoče tudi nadgraditi s pomočjo vtičnikov."
 
 #: ../data/metainfo/parole.appdata.xml.in.h:3
 msgid ""
@@ -642,7 +642,7 @@ msgstr "Ta izdaja je prva stabilna 1.0 različica. Dodana je opcija za samodejni
 
 #: ../data/metainfo/parole.appdata.xml.in.h:10
 msgid ""
-"This development release is a large cleanup of the codebase, making Parole "
+"This development release is a large cleanup of the codebase, making Linux "
 "lighter and easier to improve. All URLs have been updated to HTTPS. A large "
 "number of bugs have been resolved and a new keyboard shortcuts helper has "
 "been introduced."
@@ -733,14 +733,14 @@ msgstr "V redu"
 #: ../src/gst/parole-gst.c:1353
 #, c-format
 msgid ""
-"Parole needs <b>%s</b> to play this file.\n"
+"Linux needs <b>%s</b> to play this file.\n"
 "It can be installed automatically."
-msgstr "Parole potrebuje <b>%s</b> za predvajanje te datoteke.\nMožna je samodejna namestitev."
+msgstr "Linux potrebuje <b>%s</b> za predvajanje te datoteke.\nMožna je samodejna namestitev."
 
 #: ../src/gst/parole-gst.c:1356
 #, c-format
-msgid "Parole needs <b>%s</b> to play this file."
-msgstr "Parole potrebuje <b>%s</b> za predvajanje te datoteke."
+msgid "Linux needs <b>%s</b> to play this file."
+msgstr "Linux potrebuje <b>%s</b> za predvajanje te datoteke."
 
 #: ../src/gst/parole-gst.c:1735
 msgid "The stream is taking too much time to load"
@@ -763,8 +763,8 @@ msgid "GStreamer Error"
 msgstr "GStreamer napaka"
 
 #: ../src/gst/parole-gst.c:1939
-msgid "Parole Media Player cannot start."
-msgstr "Medijskega predvajalnika Parole ni mogoče zagnati."
+msgid "Linux Media Player cannot start."
+msgstr "Medijskega predvajalnika Linux ni mogoče zagnati."
 
 #: ../src/gst/parole-gst.c:1964 ../src/gst/parole-gst.c:1979
 #: ../src/gst/parole-gst.c:2013
@@ -786,7 +786,7 @@ msgstr "Podnapis #%d"
 #, c-format
 msgid ""
 "\n"
-"Parole Media Player %s\n"
+"Linux Media Player %s\n"
 "\n"
 "Part of the Xfce Goodies Project\n"
 "https://goodies.xfce.org\n"
@@ -795,7 +795,7 @@ msgid ""
 "\n"
 "Please report bugs to <https://bugzilla.xfce.org/>.\n"
 "\n"
-msgstr "\nParole medijski predvajalnik %s\n\nDel Xfce Goodies projekta\nhttps://goodies.xfce.org\n\nLicenca GNU GPL.\n\nHrošče prijavite na <https://bugzilla.xfce.org/>.\n\n"
+msgstr "\nLinux medijski predvajalnik %s\n\nDel Xfce Goodies projekta\nhttps://goodies.xfce.org\n\nLicenca GNU GPL.\n\nHrošče prijavite na <https://bugzilla.xfce.org/>.\n\n"
 
 #: ../src/main.c:227
 msgid "Open a new instance"
@@ -860,8 +860,8 @@ msgstr "Natipkajte %s --help za izpis vseh opciji ukazne vrstice\n"
 
 #: ../src/main.c:309
 #, c-format
-msgid "Parole is already running, use -i to open a new instance\n"
-msgstr "Parole je že zagnan, uporabite -i za novo instanco\n"
+msgid "Linux is already running, use -i to open a new instance\n"
+msgstr "Linux je že zagnan, uporabite -i za novo instanco\n"
 
 #: ../src/misc/parole-filters.c:66
 msgid "Audio"
@@ -892,8 +892,8 @@ msgid "translator-credits"
 msgstr "zasluge-prevajalcev"
 
 #: ../src/parole-about.c:78
-msgid "Visit Parole website"
-msgstr "Obiščite spletno stran Parole"
+msgid "Visit Linux website"
+msgstr "Obiščite spletno stran Linux"
 
 #: ../src/parole-conf-dialog.c:287
 msgid "Clutter (OpenGL)"
@@ -1345,8 +1345,8 @@ msgid "Are you sure you want to quit?"
 msgstr "Ali res želite končati?"
 
 #: ../src/plugins/tray/tray-provider.c:310
-msgid "Parole can be minimized to the system tray instead."
-msgstr "Parole je mogoče zmanjšati v sistemsko vrstico."
+msgid "Linux can be minimized to the system tray instead."
+msgstr "Linux je mogoče zmanjšati v sistemsko vrstico."
 
 #: ../src/plugins/tray/tray-provider.c:313
 msgid "Minimize to tray"

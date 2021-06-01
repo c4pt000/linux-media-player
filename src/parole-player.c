@@ -595,7 +595,7 @@ static void
 parole_player_reset(ParolePlayer *player) {
     parole_gst_stop(PAROLE_GST(player->priv->gst));
     player->priv->update_languages = TRUE;
-    gtk_window_set_title(GTK_WINDOW(player->priv->window), _("Parole Media Player"));
+    gtk_window_set_title(GTK_WINDOW(player->priv->window), _("Linux Media Player"));
     gtk_widget_hide(GTK_WIDGET(player->priv->dvd_menu));
     player->priv->audio_list = NULL;
     player->priv->subtitle_list = NULL;
@@ -1436,7 +1436,7 @@ parole_player_stopped(ParolePlayer *player) {
                               parole_media_list_is_selected_row(player->priv->list) ||
                               !parole_media_list_is_empty(player->priv->list));
 
-    gtk_window_set_title(GTK_WINDOW(player->priv->window), _("Parole Media Player"));
+    gtk_window_set_title(GTK_WINDOW(player->priv->window), _("Linux Media Player"));
 
     gtk_widget_hide(player->priv->videobox);
     gtk_widget_hide(player->priv->audiobox);
@@ -1797,7 +1797,7 @@ parole_player_media_tag_cb(ParoleGst *gst, const ParoleStream *stream, ParolePla
                         filename));
                 g_free(filename);
             } else {
-                gtk_window_set_title(GTK_WINDOW(player->priv->window), _("Parole Media Player"));
+                gtk_window_set_title(GTK_WINDOW(player->priv->window), _("Linux Media Player"));
                 gtk_label_set_markup(
                     GTK_LABEL(player->priv->audiobox_title),
                     g_markup_printf_escaped(

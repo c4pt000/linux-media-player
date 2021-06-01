@@ -57,7 +57,7 @@
 static void G_GNUC_NORETURN
 show_version(void) {
     g_print(_("\n"
-             "Parole Media Player %s\n\n"
+             "Linux Media Player %s\n\n"
              "Part of the Xfce Goodies Project\n"
              "https://goodies.xfce.org\n\n"
              "Licensed under the GNU GPL.\n\n"

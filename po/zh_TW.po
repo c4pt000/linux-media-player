@@ -46,8 +46,8 @@ msgid "X Window System (No Xv)"
 msgstr "X Window 系統 (No Xv)"
 
 #: ../data/interfaces/parole-settings.ui.h:4
-msgid "Parole Settings"
-msgstr "Parole 設定"
+msgid "Linux Settings"
+msgstr "Linux 設定"
 
 #: ../data/interfaces/parole-settings.ui.h:5
 msgid "Configure your media player"
@@ -87,8 +87,8 @@ msgid "General"
 msgstr "一般"
 
 #: ../data/interfaces/parole-settings.ui.h:14
-msgid "Please restart Parole for this change to take effect."
-msgstr "請重新啟動 Parole 以讓此更動生效。"
+msgid "Please restart Linux for this change to take effect."
+msgstr "請重新啟動 Linux 以讓此更動生效。"
 
 #: ../data/interfaces/parole-settings.ui.h:15
 msgid "<b>Video Output</b>"
@@ -171,11 +171,11 @@ msgid "Subtitles"
 msgstr "字幕"
 
 #: ../data/interfaces/parole.ui.h:1
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:1 ../src/parole-about.c:74
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:1 ../src/parole-about.c:74
 #: ../src/parole-player.c:598 ../src/parole-player.c:1439
 #: ../src/parole-player.c:1800 ../src/plugins/mpris2/mpris2-provider.c:189
-msgid "Parole Media Player"
-msgstr "Parole 媒體播放器"
+msgid "Linux Media Player"
+msgstr "Linux 媒體播放器"
 
 #: ../data/interfaces/parole.ui.h:2
 msgid "_Media"
@@ -354,8 +354,8 @@ msgid "_Keyboard Shortcuts"
 msgstr "鍵盤快捷鍵(_K)"
 
 #: ../data/interfaces/parole.ui.h:45
-msgid "Display Parole user manual"
-msgstr "顯示 Parole 使用手冊"
+msgid "Display Linux user manual"
+msgstr "顯示 Linux 使用手冊"
 
 #: ../data/interfaces/parole.ui.h:46
 msgid "_Contents"
@@ -447,8 +447,8 @@ msgid "Play opened files"
 msgstr "播放開啟的檔案"
 
 #: ../data/interfaces/plugins.ui.h:1
-msgid "Parole Plugins"
-msgstr "Parole 插件"
+msgid "Linux Plugins"
+msgstr "Linux 插件"
 
 #: ../data/interfaces/plugins.ui.h:2
 msgid "Extend your media player"
@@ -541,7 +541,7 @@ msgid "Playback"
 msgstr "播放"
 
 #: ../data/interfaces/shortcuts.ui.h:19
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:3
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:3
 msgid "Play/Pause"
 msgstr "播放/暫停"
 
@@ -577,33 +577,33 @@ msgstr "往回 10 分鐘"
 msgid "Go forward 10 minutes"
 msgstr "往前 10 分鐘"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:2
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:2
 msgid "Play your media"
 msgstr "播放您的媒體"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:4
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:4
 #: ../src/parole-player.c:3383 ../src/plugins/notify/notify-provider.c:190
 msgid "Previous Track"
 msgstr "上一軌"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:5
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:5
 #: ../src/parole-player.c:3401 ../src/plugins/notify/notify-provider.c:202
 msgid "Next Track"
 msgstr "下一軌"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:1
 msgid ""
-"Parole is a modern simple media player based on the GStreamer framework and "
+"Linux is a modern simple media player based on the GStreamer framework and "
 "written to fit well in the Xfce desktop. It is designed with simplicity, "
 "speed and resource usage in mind."
-msgstr "Parole 是一個現代且簡潔的媒體播放器，基於 GStreamer 框架並以符合 Xfce 桌面設計概念的方式編寫。它的設計力求簡潔、快速與低資源消耗。"
+msgstr "Linux 是一個現代且簡潔的媒體播放器，基於 GStreamer 框架並以符合 Xfce 桌面設計概念的方式編寫。它的設計力求簡潔、快速與低資源消耗。"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:2
 msgid ""
-"Parole features playback of local media files, including video with "
-"subtitles support, Audio CDs, DVDs, and live streams. Parole is also "
+"Linux features playback of local media files, including video with "
+"subtitles support, Audio CDs, DVDs, and live streams. Linux is also "
 "extensible via plugins."
-msgstr "Parole 著眼於本機媒體檔案的播放，包含了有字幕影片的支援，音樂 CD、DVD、以及直播串流。Parole 也可以經由插件擴充。"
+msgstr "Linux 著眼於本機媒體檔案的播放，包含了有字幕影片的支援，音樂 CD、DVD、以及直播串流。Linux 也可以經由插件擴充。"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:3
 msgid ""
@@ -644,11 +644,11 @@ msgstr "此版本標記了 1.0 系列的第一個穩定版本。加入了新的�
 
 #: ../data/metainfo/parole.appdata.xml.in.h:10
 msgid ""
-"This development release is a large cleanup of the codebase, making Parole "
+"This development release is a large cleanup of the codebase, making Linux "
 "lighter and easier to improve. All URLs have been updated to HTTPS. A large "
 "number of bugs have been resolved and a new keyboard shortcuts helper has "
 "been introduced."
-msgstr "這個開發版本是程式碼庫的大清理版本，讓 Parole 更輕量且更容易改進。所有 URL 都已更新為 HTTPS。並修復了大量臭蟲及引入了新的鍵盤快捷鍵。"
+msgstr "這個開發版本是程式碼庫的大清理版本，讓 Linux 更輕量且更容易改進。所有 URL 都已更新為 HTTPS。並修復了大量臭蟲及引入了新的鍵盤快捷鍵。"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:11
 msgid ""
@@ -735,14 +735,14 @@ msgstr "確定"
 #: ../src/gst/parole-gst.c:1353
 #, c-format
 msgid ""
-"Parole needs <b>%s</b> to play this file.\n"
+"Linux needs <b>%s</b> to play this file.\n"
 "It can be installed automatically."
-msgstr "Parole 需要有 <b>%s</b> 才能播放這類檔案。\n它可以自動安裝。"
+msgstr "Linux 需要有 <b>%s</b> 才能播放這類檔案。\n它可以自動安裝。"
 
 #: ../src/gst/parole-gst.c:1356
 #, c-format
-msgid "Parole needs <b>%s</b> to play this file."
-msgstr "Parole 需要有 <b>%s</b> 才能播放此檔案。"
+msgid "Linux needs <b>%s</b> to play this file."
+msgstr "Linux 需要有 <b>%s</b> 才能播放此檔案。"
 
 #: ../src/gst/parole-gst.c:1735
 msgid "The stream is taking too much time to load"
@@ -765,8 +765,8 @@ msgid "GStreamer Error"
 msgstr "GStreamer 出錯"
 
 #: ../src/gst/parole-gst.c:1939
-msgid "Parole Media Player cannot start."
-msgstr "Parole 媒體播放器無法停止。"
+msgid "Linux Media Player cannot start."
+msgstr "Linux 媒體播放器無法停止。"
 
 #: ../src/gst/parole-gst.c:1964 ../src/gst/parole-gst.c:1979
 #: ../src/gst/parole-gst.c:2013
@@ -788,7 +788,7 @@ msgstr "第 %d 字幕"
 #, c-format
 msgid ""
 "\n"
-"Parole Media Player %s\n"
+"Linux Media Player %s\n"
 "\n"
 "Part of the Xfce Goodies Project\n"
 "https://goodies.xfce.org\n"
@@ -797,7 +797,7 @@ msgid ""
 "\n"
 "Please report bugs to <https://bugzilla.xfce.org/>.\n"
 "\n"
-msgstr "\nParole 媒體播放器 %s\n\nXfce 好物專案的一部份\nhttps://goodies.xfce.org\n\n以 GNU GPL 授權。\n\n若有問題請報告 <https://bugzilla.xfce.org/>。\n\n"
+msgstr "\nLinux 媒體播放器 %s\n\nXfce 好物專案的一部份\nhttps://goodies.xfce.org\n\n以 GNU GPL 授權。\n\n若有問題請報告 <https://bugzilla.xfce.org/>。\n\n"
 
 #: ../src/main.c:227
 msgid "Open a new instance"
@@ -862,8 +862,8 @@ msgstr "鍵入 %s --help 列出所有可用的指令列選項\n"
 
 #: ../src/main.c:309
 #, c-format
-msgid "Parole is already running, use -i to open a new instance\n"
-msgstr "Parole 已經在執行中，使用 -i 來開啟新的實體\n"
+msgid "Linux is already running, use -i to open a new instance\n"
+msgstr "Linux 已經在執行中，使用 -i 來開啟新的實體\n"
 
 #: ../src/misc/parole-filters.c:66
 msgid "Audio"
@@ -894,8 +894,8 @@ msgid "translator-credits"
 msgstr "Walter Cheuk <wwycheuk@gmail.com>, 2014.\nCheng-Chia Tseng <pswo10680@gmail.com>"
 
 #: ../src/parole-about.c:78
-msgid "Visit Parole website"
-msgstr "造訪 Parole 網站"
+msgid "Visit Linux website"
+msgstr "造訪 Linux 網站"
 
 #: ../src/parole-conf-dialog.c:287
 msgid "Clutter (OpenGL)"
@@ -1341,8 +1341,8 @@ msgid "Are you sure you want to quit?"
 msgstr "確定要結束？"
 
 #: ../src/plugins/tray/tray-provider.c:310
-msgid "Parole can be minimized to the system tray instead."
-msgstr "Parole 可以改為最小化到系統匣。"
+msgid "Linux can be minimized to the system tray instead."
+msgstr "Linux 可以改為最小化到系統匣。"
 
 #: ../src/plugins/tray/tray-provider.c:313
 msgid "Minimize to tray"

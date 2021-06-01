@@ -44,8 +44,8 @@ msgid "X Window System (No Xv)"
 msgstr "X Window System (Առանց Xv)"
 
 #: ../data/interfaces/parole-settings.ui.h:4
-msgid "Parole Settings"
-msgstr "Parole կարգաւորումներ"
+msgid "Linux Settings"
+msgstr "Linux կարգաւորումներ"
 
 #: ../data/interfaces/parole-settings.ui.h:5
 msgid "Configure your media player"
@@ -85,8 +85,8 @@ msgid "General"
 msgstr "Ընդհանուր"
 
 #: ../data/interfaces/parole-settings.ui.h:14
-msgid "Please restart Parole for this change to take effect."
-msgstr "Վերագործարկեք Parole֊ն փոփոխութիւնների արդիւնքները տեսնելու համար։"
+msgid "Please restart Linux for this change to take effect."
+msgstr "Վերագործարկեք Linux֊ն փոփոխութիւնների արդիւնքները տեսնելու համար։"
 
 #: ../data/interfaces/parole-settings.ui.h:15
 msgid "<b>Video Output</b>"
@@ -169,11 +169,11 @@ msgid "Subtitles"
 msgstr "Ենթավերնագրեր"
 
 #: ../data/interfaces/parole.ui.h:1
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:1 ../src/parole-about.c:74
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:1 ../src/parole-about.c:74
 #: ../src/parole-player.c:598 ../src/parole-player.c:1439
 #: ../src/parole-player.c:1800 ../src/plugins/mpris2/mpris2-provider.c:189
-msgid "Parole Media Player"
-msgstr "Parole նուագարկիչ"
+msgid "Linux Media Player"
+msgstr "Linux նուագարկիչ"
 
 #: ../data/interfaces/parole.ui.h:2
 msgid "_Media"
@@ -352,8 +352,8 @@ msgid "_Keyboard Shortcuts"
 msgstr "_Ստեղնաշարի դիւրանցումներ"
 
 #: ../data/interfaces/parole.ui.h:45
-msgid "Display Parole user manual"
-msgstr "Ցուցադրել Parole֊ի աւգտատիրոջ ձեռնարկը"
+msgid "Display Linux user manual"
+msgstr "Ցուցադրել Linux֊ի աւգտատիրոջ ձեռնարկը"
 
 #: ../data/interfaces/parole.ui.h:46
 msgid "_Contents"
@@ -445,8 +445,8 @@ msgid "Play opened files"
 msgstr "Նուագարկել բացուած նիշերը"
 
 #: ../data/interfaces/plugins.ui.h:1
-msgid "Parole Plugins"
-msgstr "Parole ներդրաւն"
+msgid "Linux Plugins"
+msgstr "Linux ներդրաւն"
 
 #: ../data/interfaces/plugins.ui.h:2
 msgid "Extend your media player"
@@ -539,7 +539,7 @@ msgid "Playback"
 msgstr "Նուագարկում"
 
 #: ../data/interfaces/shortcuts.ui.h:19
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:3
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:3
 msgid "Play/Pause"
 msgstr "Նուագարկել/Դադարեցնել"
 
@@ -575,33 +575,33 @@ msgstr "Հետ գնալ 10 րոպե"
 msgid "Go forward 10 minutes"
 msgstr "Առաջ գնալ 10 րոպե"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:2
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:2
 msgid "Play your media"
 msgstr "Նուագարկել Ձեր մեդիան"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:4
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:4
 #: ../src/parole-player.c:3383 ../src/plugins/notify/notify-provider.c:190
 msgid "Previous Track"
 msgstr "Նախորդ երգը"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:5
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:5
 #: ../src/parole-player.c:3401 ../src/plugins/notify/notify-provider.c:202
 msgid "Next Track"
 msgstr "Հաջորդ երգը"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:1
 msgid ""
-"Parole is a modern simple media player based on the GStreamer framework and "
+"Linux is a modern simple media player based on the GStreamer framework and "
 "written to fit well in the Xfce desktop. It is designed with simplicity, "
 "speed and resource usage in mind."
-msgstr "Parole֊ն ժամանակակից պարզ նուագարկիչ է, որը հիմնուած է GStreamer framework ֊ի վրայ եւ գրուած է հարմարացնելու Xfce աշխատասեղանը։ Այն ձեւաւորուած է պարզ, արագ եւ միջոցների աւգտագործման համար։"
+msgstr "Linux֊ն ժամանակակից պարզ նուագարկիչ է, որը հիմնուած է GStreamer framework ֊ի վրայ եւ գրուած է հարմարացնելու Xfce աշխատասեղանը։ Այն ձեւաւորուած է պարզ, արագ եւ միջոցների աւգտագործման համար։"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:2
 msgid ""
-"Parole features playback of local media files, including video with "
-"subtitles support, Audio CDs, DVDs, and live streams. Parole is also "
+"Linux features playback of local media files, including video with "
+"subtitles support, Audio CDs, DVDs, and live streams. Linux is also "
 "extensible via plugins."
-msgstr "Parole֊ի տեղային մեդիայ նիշերի իւրահատուկ  նուագարկում, ներառելով տեսանիւթերը ենթագրի ապահովումով, Audio CD֊ներ, DVD֊ներ, եւ ուղիղ եթեր։ Parole֊ն արդենընդլայնուած է ներդրաւների միջոցով։"
+msgstr "Linux֊ի տեղային մեդիայ նիշերի իւրահատուկ  նուագարկում, ներառելով տեսանիւթերը ենթագրի ապահովումով, Audio CD֊ներ, DVD֊ներ, եւ ուղիղ եթեր։ Linux֊ն արդենընդլայնուած է ներդրաւների միջոցով։"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:3
 msgid ""
@@ -642,11 +642,11 @@ msgstr "Այս թողարկումը համարուում է առաջին կայ�
 
 #: ../data/metainfo/parole.appdata.xml.in.h:10
 msgid ""
-"This development release is a large cleanup of the codebase, making Parole "
+"This development release is a large cleanup of the codebase, making Linux "
 "lighter and easier to improve. All URLs have been updated to HTTPS. A large "
 "number of bugs have been resolved and a new keyboard shortcuts helper has "
 "been introduced."
-msgstr "Այս մշակուած թողարկումը այլագրի շտեմարանի լայն յարդարանքն է , որը սարքում է Parole֊ն աւելի պայծառ եւ հեշտ բարելաւելի։ Բոլոր URL֊ները թարմեցուած էին HTTPS֊ի։ Մեծաքանակ սխալներ են շտկուել եւ ներկայացուել է նոր ստեղնաշարի դիւրացման աւգնականը։"
+msgstr "Այս մշակուած թողարկումը այլագրի շտեմարանի լայն յարդարանքն է , որը սարքում է Linux֊ն աւելի պայծառ եւ հեշտ բարելաւելի։ Բոլոր URL֊ները թարմեցուած էին HTTPS֊ի։ Մեծաքանակ սխալներ են շտկուել եւ ներկայացուել է նոր ստեղնաշարի դիւրացման աւգնականը։"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:11
 msgid ""
@@ -733,14 +733,14 @@ msgstr "OK"
 #: ../src/gst/parole-gst.c:1353
 #, c-format
 msgid ""
-"Parole needs <b>%s</b> to play this file.\n"
+"Linux needs <b>%s</b> to play this file.\n"
 "It can be installed automatically."
-msgstr "Parole֊ին պէտք է <b>%s</b> այս նիշը նուագարկելու համար։\nԱյդ կարող է բեռնուել ինքնուրոյն։"
+msgstr "Linux֊ին պէտք է <b>%s</b> այս նիշը նուագարկելու համար։\nԱյդ կարող է բեռնուել ինքնուրոյն։"
 
 #: ../src/gst/parole-gst.c:1356
 #, c-format
-msgid "Parole needs <b>%s</b> to play this file."
-msgstr "Parole֊ին պէտք է <b>%s</b> այս նիշը նուագարկելու համար։"
+msgid "Linux needs <b>%s</b> to play this file."
+msgstr "Linux֊ին պէտք է <b>%s</b> այս նիշը նուագարկելու համար։"
 
 #: ../src/gst/parole-gst.c:1735
 msgid "The stream is taking too much time to load"
@@ -763,8 +763,8 @@ msgid "GStreamer Error"
 msgstr "GStreamer Սխալ"
 
 #: ../src/gst/parole-gst.c:1939
-msgid "Parole Media Player cannot start."
-msgstr "Parole Նուագարկիչը չի կարող միանալ։"
+msgid "Linux Media Player cannot start."
+msgstr "Linux Նուագարկիչը չի կարող միանալ։"
 
 #: ../src/gst/parole-gst.c:1964 ../src/gst/parole-gst.c:1979
 #: ../src/gst/parole-gst.c:2013
@@ -786,7 +786,7 @@ msgstr "Ենթագիր #%d"
 #, c-format
 msgid ""
 "\n"
-"Parole Media Player %s\n"
+"Linux Media Player %s\n"
 "\n"
 "Part of the Xfce Goodies Project\n"
 "https://goodies.xfce.org\n"
@@ -795,7 +795,7 @@ msgid ""
 "\n"
 "Please report bugs to <https://bugzilla.xfce.org/>.\n"
 "\n"
-msgstr "\nParole Նուագարկիչ %s\n\nXfce Goodies Project ֊ի մասնիկ\nhttps://goodies.xfce.org\n\nԱրտոնագրուած է GNU GPL ֊ով։\n\nՏեղեկացրեք սխալների մասին <https://bugzilla.xfce.org/>.\n\n"
+msgstr "\nLinux Նուագարկիչ %s\n\nXfce Goodies Project ֊ի մասնիկ\nhttps://goodies.xfce.org\n\nԱրտոնագրուած է GNU GPL ֊ով։\n\nՏեղեկացրեք սխալների մասին <https://bugzilla.xfce.org/>.\n\n"
 
 #: ../src/main.c:227
 msgid "Open a new instance"
@@ -860,8 +860,8 @@ msgstr "Մուտքագրեք %s --help հրամանների բոլոր ընտր�
 
 #: ../src/main.c:309
 #, c-format
-msgid "Parole is already running, use -i to open a new instance\n"
-msgstr "Parole֊ն արդեն միանում է, աւգտագործեք -i նոր նմուշ բացելու համար\n"
+msgid "Linux is already running, use -i to open a new instance\n"
+msgstr "Linux֊ն արդեն միանում է, աւգտագործեք -i նոր նմուշ բացելու համար\n"
 
 #: ../src/misc/parole-filters.c:66
 msgid "Audio"
@@ -892,8 +892,8 @@ msgid "translator-credits"
 msgstr "E-Hayq LLC, 2018"
 
 #: ../src/parole-about.c:78
-msgid "Visit Parole website"
-msgstr "Այցելեք Parole վեբկայքը"
+msgid "Visit Linux website"
+msgstr "Այցելեք Linux վեբկայքը"
 
 #: ../src/parole-conf-dialog.c:287
 msgid "Clutter (OpenGL)"
@@ -1341,8 +1341,8 @@ msgid "Are you sure you want to quit?"
 msgstr "Լքե՞լ։"
 
 #: ../src/plugins/tray/tray-provider.c:310
-msgid "Parole can be minimized to the system tray instead."
-msgstr "Parole ֊ն կարող է փոքրեցուել համակարգի դարակը ներառելով։"
+msgid "Linux can be minimized to the system tray instead."
+msgstr "Linux ֊ն կարող է փոքրեցուել համակարգի դարակը ներառելով։"
 
 #: ../src/plugins/tray/tray-provider.c:313
 msgid "Minimize to tray"

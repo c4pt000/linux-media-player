@@ -44,8 +44,8 @@ msgid "X Window System (No Xv)"
 msgstr "X gluggakerfi (ekkert Xv)"
 
 #: ../data/interfaces/parole-settings.ui.h:4
-msgid "Parole Settings"
-msgstr "Stillingar Parole"
+msgid "Linux Settings"
+msgstr "Stillingar Linux"
 
 #: ../data/interfaces/parole-settings.ui.h:5
 msgid "Configure your media player"
@@ -85,8 +85,8 @@ msgid "General"
 msgstr "Almennt"
 
 #: ../data/interfaces/parole-settings.ui.h:14
-msgid "Please restart Parole for this change to take effect."
-msgstr "Þú þarft að endurræsa Parole til að þessi breyting taki gildi."
+msgid "Please restart Linux for this change to take effect."
+msgstr "Þú þarft að endurræsa Linux til að þessi breyting taki gildi."
 
 #: ../data/interfaces/parole-settings.ui.h:15
 msgid "<b>Video Output</b>"
@@ -169,11 +169,11 @@ msgid "Subtitles"
 msgstr "Skjátextar"
 
 #: ../data/interfaces/parole.ui.h:1
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:1 ../src/parole-about.c:74
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:1 ../src/parole-about.c:74
 #: ../src/parole-player.c:598 ../src/parole-player.c:1439
 #: ../src/parole-player.c:1800 ../src/plugins/mpris2/mpris2-provider.c:189
-msgid "Parole Media Player"
-msgstr "Parole margmiðlunarspilari"
+msgid "Linux Media Player"
+msgstr "Linux margmiðlunarspilari"
 
 #: ../data/interfaces/parole.ui.h:2
 msgid "_Media"
@@ -352,8 +352,8 @@ msgid "_Keyboard Shortcuts"
 msgstr "Flýtileiðir á ly_klaborði"
 
 #: ../data/interfaces/parole.ui.h:45
-msgid "Display Parole user manual"
-msgstr "Birta Parole handbókina"
+msgid "Display Linux user manual"
+msgstr "Birta Linux handbókina"
 
 #: ../data/interfaces/parole.ui.h:46
 msgid "_Contents"
@@ -445,8 +445,8 @@ msgid "Play opened files"
 msgstr "Spila opnaðar skrár"
 
 #: ../data/interfaces/plugins.ui.h:1
-msgid "Parole Plugins"
-msgstr "Parole viðbætur"
+msgid "Linux Plugins"
+msgstr "Linux viðbætur"
 
 #: ../data/interfaces/plugins.ui.h:2
 msgid "Extend your media player"
@@ -539,7 +539,7 @@ msgid "Playback"
 msgstr "Afspilun"
 
 #: ../data/interfaces/shortcuts.ui.h:19
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:3
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:3
 msgid "Play/Pause"
 msgstr "Spila/Bíða"
 
@@ -575,33 +575,33 @@ msgstr "Fara afturábak um 10 mínútur"
 msgid "Go forward 10 minutes"
 msgstr "Fara áfram um 10 mínútur"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:2
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:2
 msgid "Play your media"
 msgstr "Spilaðu efnið þitt"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:4
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:4
 #: ../src/parole-player.c:3383 ../src/plugins/notify/notify-provider.c:190
 msgid "Previous Track"
 msgstr "Fyrra spor"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:5
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:5
 #: ../src/parole-player.c:3401 ../src/plugins/notify/notify-provider.c:202
 msgid "Next Track"
 msgstr "Næsta spor"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:1
 msgid ""
-"Parole is a modern simple media player based on the GStreamer framework and "
+"Linux is a modern simple media player based on the GStreamer framework and "
 "written to fit well in the Xfce desktop. It is designed with simplicity, "
 "speed and resource usage in mind."
-msgstr "Parole er einfaldur nútímalegur margmiðlunarspilari byggður á GStreamer kerfinu, sem er skrifaður til að passa vel inn í Xfce skjáborðsumhverfið. Hann er hannaður með einfaldleika, hraða og afköst í huga."
+msgstr "Linux er einfaldur nútímalegur margmiðlunarspilari byggður á GStreamer kerfinu, sem er skrifaður til að passa vel inn í Xfce skjáborðsumhverfið. Hann er hannaður með einfaldleika, hraða og afköst í huga."
 
 #: ../data/metainfo/parole.appdata.xml.in.h:2
 msgid ""
-"Parole features playback of local media files, including video with "
-"subtitles support, Audio CDs, DVDs, and live streams. Parole is also "
+"Linux features playback of local media files, including video with "
+"subtitles support, Audio CDs, DVDs, and live streams. Linux is also "
 "extensible via plugins."
-msgstr "Parole sér um afspilun margmiðlunarskráa á tölvunni, þar með talin myndskeið með stuðningi við skjátexta, CD-hljómdiskar, DVD-mynddiskar og netstreymi. Hægt er að útvíkka virkni Parole með viðbótum."
+msgstr "Linux sér um afspilun margmiðlunarskráa á tölvunni, þar með talin myndskeið með stuðningi við skjátexta, CD-hljómdiskar, DVD-mynddiskar og netstreymi. Hægt er að útvíkka virkni Linux með viðbótum."
 
 #: ../data/metainfo/parole.appdata.xml.in.h:3
 msgid ""
@@ -642,11 +642,11 @@ msgstr "Þessi útgáfa markar fyrstu stöðugu útgáfu 1.0 raðarinnar. Nýr v
 
 #: ../data/metainfo/parole.appdata.xml.in.h:10
 msgid ""
-"This development release is a large cleanup of the codebase, making Parole "
+"This development release is a large cleanup of the codebase, making Linux "
 "lighter and easier to improve. All URLs have been updated to HTTPS. A large "
 "number of bugs have been resolved and a new keyboard shortcuts helper has "
 "been introduced."
-msgstr "Þessi þróunarútgáfa er afurð stórhreinsunar á kóðagrunninum, sem gerir Parole léttara í keyrslu og einfaldari fyrir betrumbætur. Allar slóðir hafa verið uppfærðar í HTTPS. Leystir hafa verið fjölmargir gallar og nú er komið hjálparforrit til stuðnings flýtiunum á lyklaborði."
+msgstr "Þessi þróunarútgáfa er afurð stórhreinsunar á kóðagrunninum, sem gerir Linux léttara í keyrslu og einfaldari fyrir betrumbætur. Allar slóðir hafa verið uppfærðar í HTTPS. Leystir hafa verið fjölmargir gallar og nú er komið hjálparforrit til stuðnings flýtiunum á lyklaborði."
 
 #: ../data/metainfo/parole.appdata.xml.in.h:11
 msgid ""
@@ -733,14 +733,14 @@ msgstr "Í lagi"
 #: ../src/gst/parole-gst.c:1353
 #, c-format
 msgid ""
-"Parole needs <b>%s</b> to play this file.\n"
+"Linux needs <b>%s</b> to play this file.\n"
 "It can be installed automatically."
-msgstr "Parole þarfnast <b>%s</b> til að spila þessa skrá.\nHægt er að setja það sjálfvirkt upp."
+msgstr "Linux þarfnast <b>%s</b> til að spila þessa skrá.\nHægt er að setja það sjálfvirkt upp."
 
 #: ../src/gst/parole-gst.c:1356
 #, c-format
-msgid "Parole needs <b>%s</b> to play this file."
-msgstr "Parole þarfnast <b>%s</b> til að spila þessa skrá."
+msgid "Linux needs <b>%s</b> to play this file."
+msgstr "Linux þarfnast <b>%s</b> til að spila þessa skrá."
 
 #: ../src/gst/parole-gst.c:1735
 msgid "The stream is taking too much time to load"
@@ -763,8 +763,8 @@ msgid "GStreamer Error"
 msgstr "Villa í GStreamer"
 
 #: ../src/gst/parole-gst.c:1939
-msgid "Parole Media Player cannot start."
-msgstr "Parole margmiðlunarspilarinn ræsist ekki."
+msgid "Linux Media Player cannot start."
+msgstr "Linux margmiðlunarspilarinn ræsist ekki."
 
 #: ../src/gst/parole-gst.c:1964 ../src/gst/parole-gst.c:1979
 #: ../src/gst/parole-gst.c:2013
@@ -786,7 +786,7 @@ msgstr "Skjátexti #%d"
 #, c-format
 msgid ""
 "\n"
-"Parole Media Player %s\n"
+"Linux Media Player %s\n"
 "\n"
 "Part of the Xfce Goodies Project\n"
 "https://goodies.xfce.org\n"
@@ -795,7 +795,7 @@ msgid ""
 "\n"
 "Please report bugs to <https://bugzilla.xfce.org/>.\n"
 "\n"
-msgstr "\nParole margmiðlunarspilarinn %s\n\nHluti af XFCE Goodies verkefninu\nhttp://goodies.xfce.org\n\nGefið út með GNU GPL notkunarleyfi.\n\nTilkynntu um villur á <https://bugzilla.xfce.org/>.\n\n"
+msgstr "\nLinux margmiðlunarspilarinn %s\n\nHluti af XFCE Goodies verkefninu\nhttp://goodies.xfce.org\n\nGefið út með GNU GPL notkunarleyfi.\n\nTilkynntu um villur á <https://bugzilla.xfce.org/>.\n\n"
 
 #: ../src/main.c:227
 msgid "Open a new instance"
@@ -860,8 +860,8 @@ msgstr "Skrifaðu %s --help til að fá lista af leyfilegum valkostum á skipana
 
 #: ../src/main.c:309
 #, c-format
-msgid "Parole is already running, use -i to open a new instance\n"
-msgstr "Parole er þegar í gangi, notaðu -i til að opna nýtt tilvik\n"
+msgid "Linux is already running, use -i to open a new instance\n"
+msgstr "Linux er þegar í gangi, notaðu -i til að opna nýtt tilvik\n"
 
 #: ../src/misc/parole-filters.c:66
 msgid "Audio"
@@ -892,8 +892,8 @@ msgid "translator-credits"
 msgstr "Sveinn í Felli, sv1@fellsnet.is"
 
 #: ../src/parole-about.c:78
-msgid "Visit Parole website"
-msgstr "Fara á heimasíðu Parole"
+msgid "Visit Linux website"
+msgstr "Fara á heimasíðu Linux"
 
 #: ../src/parole-conf-dialog.c:287
 msgid "Clutter (OpenGL)"
@@ -1341,8 +1341,8 @@ msgid "Are you sure you want to quit?"
 msgstr "Ertu viss að þú viljir hætta?"
 
 #: ../src/plugins/tray/tray-provider.c:310
-msgid "Parole can be minimized to the system tray instead."
-msgstr "Hægt er að lágmarka Parole í kerfisbakkann í staðinn."
+msgid "Linux can be minimized to the system tray instead."
+msgstr "Hægt er að lágmarka Linux í kerfisbakkann í staðinn."
 
 #: ../src/plugins/tray/tray-provider.c:313
 msgid "Minimize to tray"

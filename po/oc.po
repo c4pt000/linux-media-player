@@ -43,8 +43,8 @@ msgid "X Window System (No Xv)"
 msgstr ""
 
 #: ../data/interfaces/parole-settings.ui.h:4
-msgid "Parole Settings"
-msgstr "Paramètres de Parole"
+msgid "Linux Settings"
+msgstr "Paramètres de Linux"
 
 #: ../data/interfaces/parole-settings.ui.h:5
 msgid "Configure your media player"
@@ -84,7 +84,7 @@ msgid "General"
 msgstr "General"
 
 #: ../data/interfaces/parole-settings.ui.h:14
-msgid "Please restart Parole for this change to take effect."
+msgid "Please restart Linux for this change to take effect."
 msgstr ""
 
 #: ../data/interfaces/parole-settings.ui.h:15
@@ -168,11 +168,11 @@ msgid "Subtitles"
 msgstr "Sostítols"
 
 #: ../data/interfaces/parole.ui.h:1
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:1 ../src/parole-about.c:74
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:1 ../src/parole-about.c:74
 #: ../src/parole-player.c:598 ../src/parole-player.c:1439
 #: ../src/parole-player.c:1800 ../src/plugins/mpris2/mpris2-provider.c:189
-msgid "Parole Media Player"
-msgstr "Lector Mèdia Parole"
+msgid "Linux Media Player"
+msgstr "Lector Mèdia Linux"
 
 #: ../data/interfaces/parole.ui.h:2
 msgid "_Media"
@@ -351,7 +351,7 @@ msgid "_Keyboard Shortcuts"
 msgstr ""
 
 #: ../data/interfaces/parole.ui.h:45
-msgid "Display Parole user manual"
+msgid "Display Linux user manual"
 msgstr ""
 
 #: ../data/interfaces/parole.ui.h:46
@@ -444,8 +444,8 @@ msgid "Play opened files"
 msgstr "Legir los fichièrs dobèrts"
 
 #: ../data/interfaces/plugins.ui.h:1
-msgid "Parole Plugins"
-msgstr "Empeutons Parole"
+msgid "Linux Plugins"
+msgstr "Empeutons Linux"
 
 #: ../data/interfaces/plugins.ui.h:2
 msgid "Extend your media player"
@@ -538,7 +538,7 @@ msgid "Playback"
 msgstr ""
 
 #: ../data/interfaces/shortcuts.ui.h:19
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:3
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:3
 msgid "Play/Pause"
 msgstr "Lectura / Pausa"
 
@@ -574,31 +574,31 @@ msgstr ""
 msgid "Go forward 10 minutes"
 msgstr ""
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:2
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:2
 msgid "Play your media"
 msgstr "Legir vòstre mèdia"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:4
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:4
 #: ../src/parole-player.c:3383 ../src/plugins/notify/notify-provider.c:190
 msgid "Previous Track"
 msgstr "Pista precedenta"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:5
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:5
 #: ../src/parole-player.c:3401 ../src/plugins/notify/notify-provider.c:202
 msgid "Next Track"
 msgstr "Pista seguenta"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:1
 msgid ""
-"Parole is a modern simple media player based on the GStreamer framework and "
+"Linux is a modern simple media player based on the GStreamer framework and "
 "written to fit well in the Xfce desktop. It is designed with simplicity, "
 "speed and resource usage in mind."
 msgstr ""
 
 #: ../data/metainfo/parole.appdata.xml.in.h:2
 msgid ""
-"Parole features playback of local media files, including video with "
-"subtitles support, Audio CDs, DVDs, and live streams. Parole is also "
+"Linux features playback of local media files, including video with "
+"subtitles support, Audio CDs, DVDs, and live streams. Linux is also "
 "extensible via plugins."
 msgstr ""
 
@@ -641,7 +641,7 @@ msgstr ""
 
 #: ../data/metainfo/parole.appdata.xml.in.h:10
 msgid ""
-"This development release is a large cleanup of the codebase, making Parole "
+"This development release is a large cleanup of the codebase, making Linux "
 "lighter and easier to improve. All URLs have been updated to HTTPS. A large "
 "number of bugs have been resolved and a new keyboard shortcuts helper has "
 "been introduced."
@@ -732,14 +732,14 @@ msgstr "D'acòrdi"
 #: ../src/gst/parole-gst.c:1353
 #, c-format
 msgid ""
-"Parole needs <b>%s</b> to play this file.\n"
+"Linux needs <b>%s</b> to play this file.\n"
 "It can be installed automatically."
-msgstr "Parole a besonh de <b>%s</b> per jogar aqueste fichièr.\nPòt èsser installat automaticament."
+msgstr "Linux a besonh de <b>%s</b> per jogar aqueste fichièr.\nPòt èsser installat automaticament."
 
 #: ../src/gst/parole-gst.c:1356
 #, c-format
-msgid "Parole needs <b>%s</b> to play this file."
-msgstr "Parole a besonh de <b>%s</b> per jogar aqueste fichièr."
+msgid "Linux needs <b>%s</b> to play this file."
+msgstr "Linux a besonh de <b>%s</b> per jogar aqueste fichièr."
 
 #: ../src/gst/parole-gst.c:1735
 msgid "The stream is taking too much time to load"
@@ -762,8 +762,8 @@ msgid "GStreamer Error"
 msgstr "Error GStreamer"
 
 #: ../src/gst/parole-gst.c:1939
-msgid "Parole Media Player cannot start."
-msgstr "Lo lector Mèdia Parole se pòt pas aviar."
+msgid "Linux Media Player cannot start."
+msgstr "Lo lector Mèdia Linux se pòt pas aviar."
 
 #: ../src/gst/parole-gst.c:1964 ../src/gst/parole-gst.c:1979
 #: ../src/gst/parole-gst.c:2013
@@ -785,7 +785,7 @@ msgstr "Sostítol #%d"
 #, c-format
 msgid ""
 "\n"
-"Parole Media Player %s\n"
+"Linux Media Player %s\n"
 "\n"
 "Part of the Xfce Goodies Project\n"
 "https://goodies.xfce.org\n"
@@ -859,8 +859,8 @@ msgstr "Picar %s - help per la lista de totas las opcions disponiblas en linha d
 
 #: ../src/main.c:309
 #, c-format
-msgid "Parole is already running, use -i to open a new instance\n"
-msgstr "Parole es ja en cors de foncionament. Utilizatz -i per dobrir una novèla instància\n"
+msgid "Linux is already running, use -i to open a new instance\n"
+msgstr "Linux es ja en cors de foncionament. Utilizatz -i per dobrir una novèla instància\n"
 
 #: ../src/misc/parole-filters.c:66
 msgid "Audio"
@@ -891,8 +891,8 @@ msgid "translator-credits"
 msgstr "Lista dels traductors"
 
 #: ../src/parole-about.c:78
-msgid "Visit Parole website"
-msgstr "Visitar lo site Web Parole"
+msgid "Visit Linux website"
+msgstr "Visitar lo site Web Linux"
 
 #: ../src/parole-conf-dialog.c:287
 msgid "Clutter (OpenGL)"
@@ -1340,8 +1340,8 @@ msgid "Are you sure you want to quit?"
 msgstr "Sètz segur que volètz quitar ?"
 
 #: ../src/plugins/tray/tray-provider.c:310
-msgid "Parole can be minimized to the system tray instead."
-msgstr "Parole pòt èsser minimizada dins la barra d'estat a la plaça."
+msgid "Linux can be minimized to the system tray instead."
+msgstr "Linux pòt èsser minimizada dins la barra d'estat a la plaça."
 
 #: ../src/plugins/tray/tray-provider.c:313
 msgid "Minimize to tray"

@@ -64,8 +64,8 @@ msgid "X Window System (No Xv)"
 msgstr "Sistema de Ventanas X (Sin Xv)"
 
 #: ../data/interfaces/parole-settings.ui.h:4
-msgid "Parole Settings"
-msgstr "Configuración de Parole"
+msgid "Linux Settings"
+msgstr "Configuración de Linux"
 
 #: ../data/interfaces/parole-settings.ui.h:5
 msgid "Configure your media player"
@@ -105,8 +105,8 @@ msgid "General"
 msgstr "General"
 
 #: ../data/interfaces/parole-settings.ui.h:14
-msgid "Please restart Parole for this change to take effect."
-msgstr "Reinicie Parole para que los cambios surtan efecto."
+msgid "Please restart Linux for this change to take effect."
+msgstr "Reinicie Linux para que los cambios surtan efecto."
 
 #: ../data/interfaces/parole-settings.ui.h:15
 msgid "<b>Video Output</b>"
@@ -189,11 +189,11 @@ msgid "Subtitles"
 msgstr "Subtítulos"
 
 #: ../data/interfaces/parole.ui.h:1
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:1 ../src/parole-about.c:74
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:1 ../src/parole-about.c:74
 #: ../src/parole-player.c:598 ../src/parole-player.c:1439
 #: ../src/parole-player.c:1800 ../src/plugins/mpris2/mpris2-provider.c:189
-msgid "Parole Media Player"
-msgstr "Reproductor multimedia Parole"
+msgid "Linux Media Player"
+msgstr "Reproductor multimedia Linux"
 
 #: ../data/interfaces/parole.ui.h:2
 msgid "_Media"
@@ -372,8 +372,8 @@ msgid "_Keyboard Shortcuts"
 msgstr "_Atajos de teclado"
 
 #: ../data/interfaces/parole.ui.h:45
-msgid "Display Parole user manual"
-msgstr "Mostrar el manual de usuario de Parole"
+msgid "Display Linux user manual"
+msgstr "Mostrar el manual de usuario de Linux"
 
 #: ../data/interfaces/parole.ui.h:46
 msgid "_Contents"
@@ -465,8 +465,8 @@ msgid "Play opened files"
 msgstr "Reproducir los archivos abiertos"
 
 #: ../data/interfaces/plugins.ui.h:1
-msgid "Parole Plugins"
-msgstr "Complementos de Parole"
+msgid "Linux Plugins"
+msgstr "Complementos de Linux"
 
 #: ../data/interfaces/plugins.ui.h:2
 msgid "Extend your media player"
@@ -559,7 +559,7 @@ msgid "Playback"
 msgstr "Reproducción"
 
 #: ../data/interfaces/shortcuts.ui.h:19
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:3
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:3
 msgid "Play/Pause"
 msgstr "Reproducir/pausar"
 
@@ -595,33 +595,33 @@ msgstr "Retroceder 10 minutos"
 msgid "Go forward 10 minutes"
 msgstr "Avanzar 10 minutos"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:2
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:2
 msgid "Play your media"
 msgstr "Reproduzca sus contenidos multimedia"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:4
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:4
 #: ../src/parole-player.c:3383 ../src/plugins/notify/notify-provider.c:190
 msgid "Previous Track"
 msgstr "Pista anterior"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:5
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:5
 #: ../src/parole-player.c:3401 ../src/plugins/notify/notify-provider.c:202
 msgid "Next Track"
 msgstr "Pista siguiente"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:1
 msgid ""
-"Parole is a modern simple media player based on the GStreamer framework and "
+"Linux is a modern simple media player based on the GStreamer framework and "
 "written to fit well in the Xfce desktop. It is designed with simplicity, "
 "speed and resource usage in mind."
-msgstr "Parole es un moderno y sencillo reproductor multimedia basado en el motor  GStreamer y escrito para encajar bien en el escritorio Xfce. Está diseñado teniendo en cuenta la simplicidad, la velocidad y el uso reducido de recursos."
+msgstr "Linux es un moderno y sencillo reproductor multimedia basado en el motor  GStreamer y escrito para encajar bien en el escritorio Xfce. Está diseñado teniendo en cuenta la simplicidad, la velocidad y el uso reducido de recursos."
 
 #: ../data/metainfo/parole.appdata.xml.in.h:2
 msgid ""
-"Parole features playback of local media files, including video with "
-"subtitles support, Audio CDs, DVDs, and live streams. Parole is also "
+"Linux features playback of local media files, including video with "
+"subtitles support, Audio CDs, DVDs, and live streams. Linux is also "
 "extensible via plugins."
-msgstr "Parole permite la reproducción de archivos multimedia locales, incluyendo vídeo con subtítulos, CD de audio, DVD y transmisiones en directo. Parole también es ampliable a través de complementos."
+msgstr "Linux permite la reproducción de archivos multimedia locales, incluyendo vídeo con subtítulos, CD de audio, DVD y transmisiones en directo. Linux también es ampliable a través de complementos."
 
 #: ../data/metainfo/parole.appdata.xml.in.h:3
 msgid ""
@@ -662,11 +662,11 @@ msgstr "Esta publicación marca la primera versión estable de la serie 1.0. Se 
 
 #: ../data/metainfo/parole.appdata.xml.in.h:10
 msgid ""
-"This development release is a large cleanup of the codebase, making Parole "
+"This development release is a large cleanup of the codebase, making Linux "
 "lighter and easier to improve. All URLs have been updated to HTTPS. A large "
 "number of bugs have been resolved and a new keyboard shortcuts helper has "
 "been introduced."
-msgstr "Esta versión de desarrollo implica una gran limpieza del código base, haciendo que Parole sea más ligero y fácil de mejorar. Todas las URL se han actualizado a HTTPS. Se han resuelto muchos errores y se ha introducido una nueva ayuda para los atajos de teclado."
+msgstr "Esta versión de desarrollo implica una gran limpieza del código base, haciendo que Linux sea más ligero y fácil de mejorar. Todas las URL se han actualizado a HTTPS. Se han resuelto muchos errores y se ha introducido una nueva ayuda para los atajos de teclado."
 
 #: ../data/metainfo/parole.appdata.xml.in.h:11
 msgid ""
@@ -753,14 +753,14 @@ msgstr "Aceptar"
 #: ../src/gst/parole-gst.c:1353
 #, c-format
 msgid ""
-"Parole needs <b>%s</b> to play this file.\n"
+"Linux needs <b>%s</b> to play this file.\n"
 "It can be installed automatically."
-msgstr "Parole necesita <b>%s</b> para reproducir este archivo.\nSe puede automáticamente."
+msgstr "Linux necesita <b>%s</b> para reproducir este archivo.\nSe puede automáticamente."
 
 #: ../src/gst/parole-gst.c:1356
 #, c-format
-msgid "Parole needs <b>%s</b> to play this file."
-msgstr "Parole necesita <b>%s</b> para reproducir este archivo."
+msgid "Linux needs <b>%s</b> to play this file."
+msgstr "Linux necesita <b>%s</b> para reproducir este archivo."
 
 #: ../src/gst/parole-gst.c:1735
 msgid "The stream is taking too much time to load"
@@ -783,8 +783,8 @@ msgid "GStreamer Error"
 msgstr "Error de GStreamer"
 
 #: ../src/gst/parole-gst.c:1939
-msgid "Parole Media Player cannot start."
-msgstr "No se puede iniciar el reproductor multimedia Parole."
+msgid "Linux Media Player cannot start."
+msgstr "No se puede iniciar el reproductor multimedia Linux."
 
 #: ../src/gst/parole-gst.c:1964 ../src/gst/parole-gst.c:1979
 #: ../src/gst/parole-gst.c:2013
@@ -806,7 +806,7 @@ msgstr "Subtítulos núm. %d"
 #, c-format
 msgid ""
 "\n"
-"Parole Media Player %s\n"
+"Linux Media Player %s\n"
 "\n"
 "Part of the Xfce Goodies Project\n"
 "https://goodies.xfce.org\n"
@@ -815,7 +815,7 @@ msgid ""
 "\n"
 "Please report bugs to <https://bugzilla.xfce.org/>.\n"
 "\n"
-msgstr "\nReproductor multimedia Parole %s\n\nParte del proyecto Goodies de Xfce\nhttps://goodies.xfce.org\n\nLicenciado según la GPL de GNU.\n\nInforme de errores a <https://bugzilla.xfce.org/>.\n\n"
+msgstr "\nReproductor multimedia Linux %s\n\nParte del proyecto Goodies de Xfce\nhttps://goodies.xfce.org\n\nLicenciado según la GPL de GNU.\n\nInforme de errores a <https://bugzilla.xfce.org/>.\n\n"
 
 #: ../src/main.c:227
 msgid "Open a new instance"
@@ -880,8 +880,8 @@ msgstr "Escriba %s --help para listar todas las opciones de la línea de órdene
 
 #: ../src/main.c:309
 #, c-format
-msgid "Parole is already running, use -i to open a new instance\n"
-msgstr "Parole ya se está ejecutando, use -i para abrir una instancia nueva\n"
+msgid "Linux is already running, use -i to open a new instance\n"
+msgstr "Linux ya se está ejecutando, use -i para abrir una instancia nueva\n"
 
 #: ../src/misc/parole-filters.c:66
 msgid "Audio"
@@ -912,8 +912,8 @@ msgid "translator-credits"
 msgstr "Toni Estevez <toni.estevez@gmail.com>, 2021\nPablo Roberto Francisco Lezaeta Reyes <prflr88@gmail.com>, 2013-2015\nAdolfo Jayme Barrientos <fitoschido@ubuntu.com>, 2013, 2014\nhernan144 <hernan.alvarez.guerra@gmail.com>, 2013\nMC <correomc2000-ing@yahoo.es>, 2013\nelega <elega@elega.com.ar>, 2009"
 
 #: ../src/parole-about.c:78
-msgid "Visit Parole website"
-msgstr "Visite el sitio web de Parole"
+msgid "Visit Linux website"
+msgstr "Visite el sitio web de Linux"
 
 #: ../src/parole-conf-dialog.c:287
 msgid "Clutter (OpenGL)"
@@ -1361,8 +1361,8 @@ msgid "Are you sure you want to quit?"
 msgstr "¿Seguro que quiere salir?"
 
 #: ../src/plugins/tray/tray-provider.c:310
-msgid "Parole can be minimized to the system tray instead."
-msgstr "Parole se puede minimizar en el área de notificación."
+msgid "Linux can be minimized to the system tray instead."
+msgstr "Linux se puede minimizar en el área de notificación."
 
 #: ../src/plugins/tray/tray-provider.c:313
 msgid "Minimize to tray"

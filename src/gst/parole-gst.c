@@ -1936,7 +1936,7 @@ parole_gst_show_error(GtkWindow *window, GError *error) {
                                      GTK_MESSAGE_ERROR,
                                      GTK_BUTTONS_CLOSE,
                                      _("GStreamer Error"));
-    message = g_strdup_printf("%s\n%s", error->message, _("Parole Media Player cannot start."));
+    message = g_strdup_printf("%s\n%s", error->message, _("Linux Media Player cannot start."));
     gtk_message_dialog_format_secondary_text(GTK_MESSAGE_DIALOG(dialog), message, "%s");
     gtk_dialog_run(GTK_DIALOG(dialog));
 }

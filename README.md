@@ -1,20 +1,3 @@
-
-# rebranding "Parole media player" (because not only does it bother me it bothers the mental shit out of other people also"
-```
-yum groupinstall "C Development Tools and Libraries" -y
-yum install xfce4-devel taglib-devel.x86_64 xfce4-dev-tools.x86_64 dbus-glib-devel.x86_64 libxfce4util-devel.x86_64 xfconf-devel libxfce* gstreamer* libnotify* 
-sh autogen.sh 
-./configure --prefix=/usr
-make -j24
-make -j24 install
-
-
-install checkinstall, 
-export PAGER=less
-checkinstall --install=no --exclude=/sys/fs/selinux -D
-
-```
-
 [![License](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://gitlab.xfce.org/apps/parole/-/blob/master/COPYING)
 
 # parole
@@ -28,7 +11,6 @@ Parole, see the Plugins API documentation and the plugins directory which
 contains some useful examples.
 
 ----
-
 
 ### Homepage
 

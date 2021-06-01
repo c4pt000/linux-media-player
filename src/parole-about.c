@@ -62,7 +62,11 @@ void parole_about(GtkWindow *parent) {
     static const gchar *copyrights =
     "Copyright \302\251 2009-2011 Ali Abdallah\n"
     "Copyright \302\251 2012-2017 Simon Steinbeiss\n"
-    "Copyright \302\251 2012-2020 Sean Davis";
+    "Copyright \302\251 2012-2020 Sean Davis\n"
+	"\n"
+	"\n"
+	"\n"
+    "edit by c4pt000 to LMP (Linux Media Player)";
 
     gtk_show_about_dialog(parent,
         "authors", authors,
@@ -71,10 +75,10 @@ void parole_about(GtkWindow *parent) {
         "copyright", copyrights,
         "license", XFCE_LICENSE_GPL,
         "logo-icon-name", "org.xfce.parole",
-        "program-name", _("Parole Media Player"),
+        "program-name", _("Linux Media Player"),
         "translator-credits", _("translator-credits"),
         "version", PACKAGE_VERSION,
-        "website", "https://docs.xfce.org/apps/parole/start",
-        "website-label", _("Visit Parole website"),
+        "website", "https://github.com/c4pt000/linux-media-player",
+        "website-label", _("Visit Linux Media Player website"),
         NULL);
 }

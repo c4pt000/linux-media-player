@@ -186,7 +186,7 @@ static GVariant* mpris_Root_get_HasTrackList(GError **error, Mpris2Provider *pro
 }
 
 static GVariant* mpris_Root_get_Identity(GError **error, Mpris2Provider *provider) {
-    return g_variant_new_string(_("Parole Media Player"));
+    return g_variant_new_string(_("Linux Media Player"));
 }
 
 static GVariant* mpris_Root_get_DesktopEntry(GError **error, Mpris2Provider *provider) {

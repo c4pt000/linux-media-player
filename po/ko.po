@@ -44,7 +44,7 @@ msgid "X Window System (No Xv)"
 msgstr "X 윈도 시스템(No Xv)"
 
 #: ../data/interfaces/parole-settings.ui.h:4
-msgid "Parole Settings"
+msgid "Linux Settings"
 msgstr "빠롤 설정"
 
 #: ../data/interfaces/parole-settings.ui.h:5
@@ -85,7 +85,7 @@ msgid "General"
 msgstr "일반"
 
 #: ../data/interfaces/parole-settings.ui.h:14
-msgid "Please restart Parole for this change to take effect."
+msgid "Please restart Linux for this change to take effect."
 msgstr "바꾼 내용을 적용하려면 빠롤을 재시작하십시오."
 
 #: ../data/interfaces/parole-settings.ui.h:15
@@ -169,10 +169,10 @@ msgid "Subtitles"
 msgstr "자막"
 
 #: ../data/interfaces/parole.ui.h:1
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:1 ../src/parole-about.c:74
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:1 ../src/parole-about.c:74
 #: ../src/parole-player.c:598 ../src/parole-player.c:1439
 #: ../src/parole-player.c:1800 ../src/plugins/mpris2/mpris2-provider.c:189
-msgid "Parole Media Player"
+msgid "Linux Media Player"
 msgstr "빠롤 미디어 플레이어"
 
 #: ../data/interfaces/parole.ui.h:2
@@ -352,7 +352,7 @@ msgid "_Keyboard Shortcuts"
 msgstr "단축키(_K)"
 
 #: ../data/interfaces/parole.ui.h:45
-msgid "Display Parole user manual"
+msgid "Display Linux user manual"
 msgstr "빠롤 사용자 설명서를 표시합니다"
 
 #: ../data/interfaces/parole.ui.h:46
@@ -445,7 +445,7 @@ msgid "Play opened files"
 msgstr "열어놓은 파일 재생하기"
 
 #: ../data/interfaces/plugins.ui.h:1
-msgid "Parole Plugins"
+msgid "Linux Plugins"
 msgstr "빠롤 플러그인"
 
 #: ../data/interfaces/plugins.ui.h:2
@@ -539,7 +539,7 @@ msgid "Playback"
 msgstr "플레이"
 
 #: ../data/interfaces/shortcuts.ui.h:19
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:3
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:3
 msgid "Play/Pause"
 msgstr "재생/일시정지"
 
@@ -575,31 +575,31 @@ msgstr "10분 전으로 돌아가기"
 msgid "Go forward 10 minutes"
 msgstr "10분 후로 가기"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:2
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:2
 msgid "Play your media"
 msgstr "미디어 재생"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:4
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:4
 #: ../src/parole-player.c:3383 ../src/plugins/notify/notify-provider.c:190
 msgid "Previous Track"
 msgstr "이전 트랙"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:5
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:5
 #: ../src/parole-player.c:3401 ../src/plugins/notify/notify-provider.c:202
 msgid "Next Track"
 msgstr "다음 트랙"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:1
 msgid ""
-"Parole is a modern simple media player based on the GStreamer framework and "
+"Linux is a modern simple media player based on the GStreamer framework and "
 "written to fit well in the Xfce desktop. It is designed with simplicity, "
 "speed and resource usage in mind."
 msgstr "빠롤은 지스트리머 프레임워크를 기반으로 한 간단한 최신 미디어 플레이어이며, Xfce 데스크톱에 적합하게 작성했습니다. 단순함, 속도, 자원 활용을 염두에 두고 설계했습니다."
 
 #: ../data/metainfo/parole.appdata.xml.in.h:2
 msgid ""
-"Parole features playback of local media files, including video with "
-"subtitles support, Audio CDs, DVDs, and live streams. Parole is also "
+"Linux features playback of local media files, including video with "
+"subtitles support, Audio CDs, DVDs, and live streams. Linux is also "
 "extensible via plugins."
 msgstr "빠롤은 자막과 더불어 동영상과 같은 로컬 미디어 파일, 오디오 CD, DVD, 라이브 스트림을 재생합니다. 플러그인을 통해 기능을 확장할 수 있습니다."
 
@@ -642,7 +642,7 @@ msgstr "이 출시판은 1.0 시리즈의 첫번째 안정판으로 등극했습
 
 #: ../data/metainfo/parole.appdata.xml.in.h:10
 msgid ""
-"This development release is a large cleanup of the codebase, making Parole "
+"This development release is a large cleanup of the codebase, making Linux "
 "lighter and easier to improve. All URLs have been updated to HTTPS. A large "
 "number of bugs have been resolved and a new keyboard shortcuts helper has "
 "been introduced."
@@ -733,13 +733,13 @@ msgstr "확인"
 #: ../src/gst/parole-gst.c:1353
 #, c-format
 msgid ""
-"Parole needs <b>%s</b> to play this file.\n"
+"Linux needs <b>%s</b> to play this file.\n"
 "It can be installed automatically."
 msgstr "빠롤은 이 파일을 재생하기 위해 <b>%s</b>을(를) 필요로 합니다.\n자동으로 설치할 수 있습니다."
 
 #: ../src/gst/parole-gst.c:1356
 #, c-format
-msgid "Parole needs <b>%s</b> to play this file."
+msgid "Linux needs <b>%s</b> to play this file."
 msgstr "빠롤은 이 파일을 재생하기 위해 <b>%s</b>을(를) 필요로 합니다."
 
 #: ../src/gst/parole-gst.c:1735
@@ -763,7 +763,7 @@ msgid "GStreamer Error"
 msgstr "지스트리머 오류"
 
 #: ../src/gst/parole-gst.c:1939
-msgid "Parole Media Player cannot start."
+msgid "Linux Media Player cannot start."
 msgstr "빠롤 미디어 재생기를 시작할 수 없습니다."
 
 #: ../src/gst/parole-gst.c:1964 ../src/gst/parole-gst.c:1979
@@ -786,7 +786,7 @@ msgstr "%d번 자막"
 #, c-format
 msgid ""
 "\n"
-"Parole Media Player %s\n"
+"Linux Media Player %s\n"
 "\n"
 "Part of the Xfce Goodies Project\n"
 "https://goodies.xfce.org\n"
@@ -860,7 +860,7 @@ msgstr "모든 존재하는 명령줄 옵션을 보려면 %s --help를 입력하
 
 #: ../src/main.c:309
 #, c-format
-msgid "Parole is already running, use -i to open a new instance\n"
+msgid "Linux is already running, use -i to open a new instance\n"
 msgstr "빠롤이 이미 실행중입니다. 새 인스턴스를 열려면 -i를 사용합니다\n"
 
 #: ../src/misc/parole-filters.c:66
@@ -892,7 +892,7 @@ msgid "translator-credits"
 msgstr "Seong-ho Cho <darkcircle.0426@gmail.com>, 2012"
 
 #: ../src/parole-about.c:78
-msgid "Visit Parole website"
+msgid "Visit Linux website"
 msgstr "빠롤 웹사이트 방문하기"
 
 #: ../src/parole-conf-dialog.c:287
@@ -1339,7 +1339,7 @@ msgid "Are you sure you want to quit?"
 msgstr "정말로 끝내시렵니까?"
 
 #: ../src/plugins/tray/tray-provider.c:310
-msgid "Parole can be minimized to the system tray instead."
+msgid "Linux can be minimized to the system tray instead."
 msgstr "빠롤을 시스템 표시줄에 대신 최소화 할 수 있습니다."
 
 #: ../src/plugins/tray/tray-provider.c:313

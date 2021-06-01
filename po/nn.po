@@ -5,7 +5,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Parole\n"
+"Project-Id-Version: Linux\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-07-20 11:45+0200\n"
 "PO-Revision-Date: 2012-04-12 17:26+0100\n"
@@ -20,8 +20,8 @@ msgstr ""
 "X-Poedit-Country: NORWAY\n"
 
 #: ../data/interfaces/parole.ui.h:1 ../src/parole-about.c:89
-msgid "Parole Media Player"
-msgstr "Mediaspelaren Parole"
+msgid "Linux Media Player"
+msgstr "Mediaspelaren Linux"
 
 #: ../data/interfaces/parole.ui.h:2
 msgid "_Media"
@@ -144,8 +144,8 @@ msgid "Media player"
 msgstr "Mediaspelar"
 
 #: ../data/interfaces/mediachooser.ui.h:1
-msgid "Parole Media Chooser"
-msgstr "Parole mediaveljar"
+msgid "Linux Media Chooser"
+msgstr "Linux mediaveljar"
 
 #: ../data/interfaces/mediachooser.ui.h:2
 msgid "Open media files"
@@ -169,8 +169,8 @@ msgid "Start playing opened files"
 msgstr "Start å spela opna filer"
 
 #: ../data/interfaces/plugins.ui.h:1
-msgid "Parole Plugins"
-msgstr "Parole-tillegg"
+msgid "Linux Plugins"
+msgstr "Linux-tillegg"
 
 #: ../data/interfaces/plugins.ui.h:2
 msgid "Media Player plugins"
@@ -198,8 +198,8 @@ msgid "<b>Site:</b>"
 msgstr "<b>Nettstad:</b>"
 
 #: ../data/interfaces/parole-settings.ui.h:1
-msgid "Parole Settings"
-msgstr "Parole-innstillingar"
+msgid "Linux Settings"
+msgstr "Linux-innstillingar"
 
 #: ../data/interfaces/parole-settings.ui.h:2
 msgid "Media Player Settings"
@@ -330,8 +330,8 @@ msgid "Please enter a network URL:"
 msgstr ""
 
 #: ../data/desktop/parole.desktop.in.in.h:1
-msgid "Parole"
-msgstr "Parole"
+msgid "Linux"
+msgstr "Linux"
 
 #: ../src/common/parole-common.c:67
 msgid "Message"
@@ -377,7 +377,7 @@ msgstr ""
 #, c-format
 msgid ""
 "\n"
-"Parole Media Player %s\n"
+"Linux Media Player %s\n"
 "\n"
 "Part of the Xfce Goodies Project\n"
 "https://goodies.xfce.org\n"
@@ -386,7 +386,7 @@ msgid ""
 "\n"
 msgstr ""
 "\n"
-"Parole mediaspelar %s\n"
+"Linux mediaspelar %s\n"
 "\n"
 "Ein del av Xfce-prosjektet\n"
 "https://goodies.xfce.org\n"
@@ -464,8 +464,8 @@ msgstr "Media å spela"
 
 #: ../src/main.c:276
 #, c-format
-msgid "Parole is already running, use -i to open a new instance\n"
-msgstr "Parole køyrer allereie, bruk -i for å opna ei ny økt\n"
+msgid "Linux is already running, use -i to open a new instance\n"
+msgstr "Linux køyrer allereie, bruk -i for å opna ei ny økt\n"
 
 #: ../src/parole-medialist.c:526
 msgid "Permission denied"
@@ -570,7 +570,7 @@ msgstr "Omsetjar (%s)"
 
 #: ../src/parole-about.c:98
 #, fuzzy
-msgid "Visit Parole website"
+msgid "Visit Linux website"
 msgstr "Besøk nettstaden"
 
 #: ../src/parole-disc.c:227
@@ -816,8 +816,8 @@ msgid "Minimize to tray"
 msgstr "Send til trauet"
 
 #: ../src/plugins/tray/tray-provider.c:499
-msgid "Are you sure you want to quit Parole"
-msgstr "Er du sikker på at du vil avslutta Parole?"
+msgid "Are you sure you want to quit Linux"
+msgstr "Er du sikker på at du vil avslutta Linux?"
 
 #: ../src/plugins/tray/tray-provider.c:503
 msgid "Remember my choice"

@@ -43,8 +43,8 @@ msgid "X Window System (No Xv)"
 msgstr "Sistem X Window (Tanpa Xv)"
 
 #: ../data/interfaces/parole-settings.ui.h:4
-msgid "Parole Settings"
-msgstr "Tetapan Parole"
+msgid "Linux Settings"
+msgstr "Tetapan Linux"
 
 #: ../data/interfaces/parole-settings.ui.h:5
 msgid "Configure your media player"
@@ -84,8 +84,8 @@ msgid "General"
 msgstr "Am"
 
 #: ../data/interfaces/parole-settings.ui.h:14
-msgid "Please restart Parole for this change to take effect."
-msgstr "Sila mulakan semula Parole supaya perubahan ini berkesan."
+msgid "Please restart Linux for this change to take effect."
+msgstr "Sila mulakan semula Linux supaya perubahan ini berkesan."
 
 #: ../data/interfaces/parole-settings.ui.h:15
 msgid "<b>Video Output</b>"
@@ -168,11 +168,11 @@ msgid "Subtitles"
 msgstr "Sarikata"
 
 #: ../data/interfaces/parole.ui.h:1
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:1 ../src/parole-about.c:74
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:1 ../src/parole-about.c:74
 #: ../src/parole-player.c:598 ../src/parole-player.c:1439
 #: ../src/parole-player.c:1800 ../src/plugins/mpris2/mpris2-provider.c:189
-msgid "Parole Media Player"
-msgstr "Pemain Media Parole"
+msgid "Linux Media Player"
+msgstr "Pemain Media Linux"
 
 #: ../data/interfaces/parole.ui.h:2
 msgid "_Media"
@@ -351,8 +351,8 @@ msgid "_Keyboard Shortcuts"
 msgstr "Pintasan Papan _Kekunci"
 
 #: ../data/interfaces/parole.ui.h:45
-msgid "Display Parole user manual"
-msgstr "Papar panduan pengguna Parole"
+msgid "Display Linux user manual"
+msgstr "Papar panduan pengguna Linux"
 
 #: ../data/interfaces/parole.ui.h:46
 msgid "_Contents"
@@ -444,8 +444,8 @@ msgid "Play opened files"
 msgstr "Main fail dibuka"
 
 #: ../data/interfaces/plugins.ui.h:1
-msgid "Parole Plugins"
-msgstr "Pemalam Parole"
+msgid "Linux Plugins"
+msgstr "Pemalam Linux"
 
 #: ../data/interfaces/plugins.ui.h:2
 msgid "Extend your media player"
@@ -538,7 +538,7 @@ msgid "Playback"
 msgstr "Main Balik"
 
 #: ../data/interfaces/shortcuts.ui.h:19
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:3
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:3
 msgid "Play/Pause"
 msgstr "Main/Jeda"
 
@@ -574,33 +574,33 @@ msgstr "Undur 10 minit"
 msgid "Go forward 10 minutes"
 msgstr "Maju 10 minit"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:2
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:2
 msgid "Play your media"
 msgstr "Main media anda"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:4
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:4
 #: ../src/parole-player.c:3383 ../src/plugins/notify/notify-provider.c:190
 msgid "Previous Track"
 msgstr "Trek Terdahulu"
 
-#: ../data/desktop/org.xfce.Parole.desktop.in.in.h:5
+#: ../data/desktop/org.xfce.Linux.desktop.in.in.h:5
 #: ../src/parole-player.c:3401 ../src/plugins/notify/notify-provider.c:202
 msgid "Next Track"
 msgstr "Trek Berikutnya"
 
 #: ../data/metainfo/parole.appdata.xml.in.h:1
 msgid ""
-"Parole is a modern simple media player based on the GStreamer framework and "
+"Linux is a modern simple media player based on the GStreamer framework and "
 "written to fit well in the Xfce desktop. It is designed with simplicity, "
 "speed and resource usage in mind."
-msgstr "Parole adalah pemain media ringkas yang modern berasaskan pada bingkai kerja GStreamer dan ditulis untuk disesuaikan dengan desktop Xfce. Ia direka berdasarkan keringkasan, kelajuan dan penggunaan sumber yang efisyen."
+msgstr "Linux adalah pemain media ringkas yang modern berasaskan pada bingkai kerja GStreamer dan ditulis untuk disesuaikan dengan desktop Xfce. Ia direka berdasarkan keringkasan, kelajuan dan penggunaan sumber yang efisyen."
 
 #: ../data/metainfo/parole.appdata.xml.in.h:2
 msgid ""
-"Parole features playback of local media files, including video with "
-"subtitles support, Audio CDs, DVDs, and live streams. Parole is also "
+"Linux features playback of local media files, including video with "
+"subtitles support, Audio CDs, DVDs, and live streams. Linux is also "
 "extensible via plugins."
-msgstr "Parole fiturkan main balik fail media setempat, termasuklah video dengan sokongan sarikata, CD Audio, DVD, dan strim langsung. Parole juga boleh ditambah baik melalui pemalam."
+msgstr "Linux fiturkan main balik fail media setempat, termasuklah video dengan sokongan sarikata, CD Audio, DVD, dan strim langsung. Linux juga boleh ditambah baik melalui pemalam."
 
 #: ../data/metainfo/parole.appdata.xml.in.h:3
 msgid ""
@@ -641,11 +641,11 @@ msgstr "Keluaran ini menandakan keluaran stabil pertama bagi siri 1.0. Satu pili
 
 #: ../data/metainfo/parole.appdata.xml.in.h:10
 msgid ""
-"This development release is a large cleanup of the codebase, making Parole "
+"This development release is a large cleanup of the codebase, making Linux "
 "lighter and easier to improve. All URLs have been updated to HTTPS. A large "
 "number of bugs have been resolved and a new keyboard shortcuts helper has "
 "been introduced."
-msgstr "Keluaran pembangunan ini melibatkan pembersihan besar-besaran tapak kod, menjadikan Parole lebih ringan dan lebih mudah ditambahbaik. Semua URL telah dikemaskini dengan HTTPS. Sebahagian besar pepijat telah dileraikan dan satu pembantu pintasan papan kekunci baharu telah diperkenalkan."
+msgstr "Keluaran pembangunan ini melibatkan pembersihan besar-besaran tapak kod, menjadikan Linux lebih ringan dan lebih mudah ditambahbaik. Semua URL telah dikemaskini dengan HTTPS. Sebahagian besar pepijat telah dileraikan dan satu pembantu pintasan papan kekunci baharu telah diperkenalkan."
 
 #: ../data/metainfo/parole.appdata.xml.in.h:11
 msgid ""
@@ -732,14 +732,14 @@ msgstr "OK"
 #: ../src/gst/parole-gst.c:1353
 #, c-format
 msgid ""
-"Parole needs <b>%s</b> to play this file.\n"
+"Linux needs <b>%s</b> to play this file.\n"
 "It can be installed automatically."
-msgstr "Parole perlukan <b>%s</b> untuk main fail\nini. Ia boleh dipasang secara automatik."
+msgstr "Linux perlukan <b>%s</b> untuk main fail\nini. Ia boleh dipasang secara automatik."
 
 #: ../src/gst/parole-gst.c:1356
 #, c-format
-msgid "Parole needs <b>%s</b> to play this file."
-msgstr "Parole perlukan <b>%s</b> untuk main fail ini."
+msgid "Linux needs <b>%s</b> to play this file."
+msgstr "Linux perlukan <b>%s</b> untuk main fail ini."
 
 #: ../src/gst/parole-gst.c:1735
 msgid "The stream is taking too much time to load"
@@ -762,8 +762,8 @@ msgid "GStreamer Error"
 msgstr "Ralat GStreamer"
 
 #: ../src/gst/parole-gst.c:1939
-msgid "Parole Media Player cannot start."
-msgstr "Pemain Media Parole tidak dapat mula."
+msgid "Linux Media Player cannot start."
+msgstr "Pemain Media Linux tidak dapat mula."
 
 #: ../src/gst/parole-gst.c:1964 ../src/gst/parole-gst.c:1979
 #: ../src/gst/parole-gst.c:2013
@@ -785,7 +785,7 @@ msgstr "Sarikata #%d"
 #, c-format
 msgid ""
 "\n"
-"Parole Media Player %s\n"
+"Linux Media Player %s\n"
 "\n"
 "Part of the Xfce Goodies Project\n"
 "https://goodies.xfce.org\n"
@@ -794,7 +794,7 @@ msgid ""
 "\n"
 "Please report bugs to <https://bugzilla.xfce.org/>.\n"
 "\n"
-msgstr "\nPemain Media Parole  %s\n\nSebahagian dari Projek Kudapan Xfce\nhttps://goodies.xfce.org\n\nDilesenkan bawah GNU GPL.\n\nSila laporkan pepijat kepada <https://bugzilla.xfce.org/>.\n\n"
+msgstr "\nPemain Media Linux  %s\n\nSebahagian dari Projek Kudapan Xfce\nhttps://goodies.xfce.org\n\nDilesenkan bawah GNU GPL.\n\nSila laporkan pepijat kepada <https://bugzilla.xfce.org/>.\n\n"
 
 #: ../src/main.c:227
 msgid "Open a new instance"
@@ -859,8 +859,8 @@ msgstr "Taip %s --help untuk lihat senarai pilihan baris perintah yang tersedia.
 
 #: ../src/main.c:309
 #, c-format
-msgid "Parole is already running, use -i to open a new instance\n"
-msgstr "Parole sudah dijalankan, guna -i untuk buka kejadian baharu\n"
+msgid "Linux is already running, use -i to open a new instance\n"
+msgstr "Linux sudah dijalankan, guna -i untuk buka kejadian baharu\n"
 
 #: ../src/misc/parole-filters.c:66
 msgid "Audio"
@@ -891,8 +891,8 @@ msgid "translator-credits"
 msgstr "Abuyop <abuyop@gmail.com>"
 
 #: ../src/parole-about.c:78
-msgid "Visit Parole website"
-msgstr "Lawati laman sesawang Parole"
+msgid "Visit Linux website"
+msgstr "Lawati laman sesawang Linux"
 
 #: ../src/parole-conf-dialog.c:287
 msgid "Clutter (OpenGL)"
@@ -1338,8 +1338,8 @@ msgid "Are you sure you want to quit?"
 msgstr "Anda pasti hendak keluar?"
 
 #: ../src/plugins/tray/tray-provider.c:310
-msgid "Parole can be minimized to the system tray instead."
-msgstr "Parole boleh diminimumkan ke talam sistem."
+msgid "Linux can be minimized to the system tray instead."
+msgstr "Linux boleh diminimumkan ke talam sistem."
 
 #: ../src/plugins/tray/tray-provider.c:313
 msgid "Minimize to tray"

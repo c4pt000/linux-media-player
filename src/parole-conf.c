@@ -943,7 +943,7 @@ parole_conf_load_rc_file(ParoleConf *conf) {
     xfce_rc_close(rc);
 
     g_print("\n\n"
-             "Your Parole settings have been migrated to Xfconf.\n"
+             "Your Linux Media Player settings have been migrated to Xfconf.\n"
              "The config file \"%s\"\n"
              "is not used anymore.\n\n", PAROLE_RESOURCE_FILE);
 }
