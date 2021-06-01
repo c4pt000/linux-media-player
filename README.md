@@ -1,5 +1,5 @@
 
-
+# rebranding "Parole media player" (because not only does it bother me it bothers the mental shit out of other people also"
 ```
 yum groupinstall "C Development Tools and Libraries" -y
 yum install xfce4-devel taglib-devel.x86_64 xfce4-dev-tools.x86_64 dbus-glib-devel.x86_64 libxfce4util-devel.x86_64 xfconf-devel libxfce* gstreamer* libnotify* 
